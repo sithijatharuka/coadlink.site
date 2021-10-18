@@ -1,4 +1,4 @@
-export const posts = [
+[
   {
     id: "1",
     title: "Sithija Tharuka",
@@ -7,4 +7,4 @@ export const posts = [
     id: "2",
     title: "Savindu Mihsara",
   },
-];
+]
