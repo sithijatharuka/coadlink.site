@@ -1,10 +1,10 @@
 [
   {
-    id: "1",
-    title: "Sithija Tharuka",
+    "id": 1,
+    "title": "Sithija Tharuka",
   },
   {
-    id: "2",
-    title: "Savindu Mihsara",
+    "id": 2,
+    "title": "Savindu Mihsara",
   },
 ]
