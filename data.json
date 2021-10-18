@@ -1,6 +1,7 @@
 {
-    "firstName": "Rack",
-    "lastName": "jackson",
-    "gender": "man",
-    "age": 24,
-}
+  "id": 1,
+  "title": "Sithija Tharuka",},
+ {
+   "id": 2,
+   "title": "Savindu Mihsara",
+ }
