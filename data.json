@@ -284,6 +284,19 @@
       "There is a class today",
       "There is a bus at 8.30"
     ]
+  },
+  {
+    "id": 23,
+    "lessonNumber": 23,
+    "topic": "Sithija Tharuka",
+    "description": "ඉංග්‍රීසි භාෂාවෙන් තිබෙනවා(තිබේ),ඉන්නවා(සිටි/සිටිති) යන අදහස් ප්‍රකාශ කිරීමේදී There සහිත වැකි භාවිතා කරයි.",
+    "examples": [
+      "There is a book",
+      "There is a problem",
+      "There is a dog",
+      "There is a class today",
+      "There is a bus at 8.30"
+    ]
   }
 ]
 
