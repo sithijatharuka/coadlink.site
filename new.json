@@ -1,73 +1,95 @@
+
 [
-  {
-    "_id": {
-      "$oid": "61b187e88b1cf6d3cbedc637"
+
+    {
+        "_id": "61b4539ff47f36374a5f34b0",
+        "lessonNumber": "02",
+        "topic": "Simple Past Tens",
+        "description": "wm mqreoaola jYfhka fyda ks;sm;d lrkq ,nk l%shd ms<sn| woyia m< lsÍï i|yd fuu ld,h Ndú;d lrhs",
+        "present": [
+            {
+                "sentence": "I go to the school Past",
+                "meaning": "uu mdi,a hkjd",
+                "_id": "61b4539ff47f36374a5f34b1"
+            },
+            {
+                "sentence": "I go to the class",
+                "meaning": "uu mdi,a hkjd",
+                "_id": "61b4539ff47f36374a5f34b2"
+            }
+        ],
+        "negative": [
+            {
+                "sentence": "I go to the school negative",
+                "meaning": "uu mdi,a hkjd",
+                "_id": "61b4539ff47f36374a5f34b3"
+            },
+            {
+                "sentence": "I go to the class negative",
+                "meaning": "uu mdi,a hkjd",
+                "_id": "61b4539ff47f36374a5f34b4"
+            }
+        ],
+        "question": [
+            {
+                "sentence": "I go to the school question",
+                "meaning": "uu mdi,a hkjd",
+                "_id": "61b4539ff47f36374a5f34b5"
+            },
+            {
+                "sentence": "I go to the class question",
+                "meaning": "uu mdi,a hkjd",
+                "_id": "61b4539ff47f36374a5f34b6"
+            }
+        ],
+        "createdAt": "2021-12-11T07:30:39.195Z",
+        "updatedAt": "2021-12-11T07:30:39.195Z",
+        "__v": 0
     },
-    "lessonNumber": "01",
-    "topic": "Simple Present Tense",
-    "description": "wm mqreoaola jYfhka fyda ks;sm;d lrkq ,nk l%shd ms<sn| woyia m< lsÍï i|yd fuu ld,h Ndú;d lrhs'",
-    "present": ["present tense 01", "present tense 02", "present tense 03"],
-    "negative": ["negative tense 01", "negative tense 02", "negative tense 03"],
-    "question": ["question tense 01", "present tense 02", "present tense 03"],
-    "createdAt": {
-      "$date": "2021-12-09T04:36:56.050Z"
-    },
-    "updatedAt": {
-      "$date": "2021-12-09T04:36:56.050Z"
-    },
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "61b1893d2bbfc0d10608f5e7"
-    },
-    "lessonNumber": "02",
-    "topic": "Simple Future Tense new",
-    "description": "wm mqreoaola jYfhka fyda ks;sm;d lrkq ,nk l%shd ms<sn| woyia m< lsÍï i|yd fuu ld,h Ndú;d lrhs'",
-    "present": [
-      "They will play cricket",
-      "He will help me",
-      "She will pass her exam",
-      "He will buy a car next year",
-      "She will sing a song"
-    ],
-    "negative": ["They will not win the match", "He won't handle this work"],
-    "question": ["Will he bring my book?", "Will she come tomorrow?"],
-    "createdAt": {
-      "$date": "2021-12-09T04:42:37.491Z"
-    },
-    "updatedAt": {
-      "$date": "2021-12-09T04:42:37.491Z"
-    },
-    "__v": 0
-  },
-  {
-    "_id": {
-      "$oid": "61b189b3683eca5b787b4249"
-    },
-    "lessonNumber": "03",
-    "topic": "bla bla bla",
-    "description": "gkjhretretre",
-    "present": [
-      "present tense 01 - මම පාසල් යනවා",
-      "present tense 02",
-      "present tense 03",
-      "present tense 04",
-      "present tense 05",
-      "present tense 06",
-      "present tense 07",
-      "present tense 08",
-      "present tense 09",
-      "present tense 10"
-    ],
-    "negative": ["negative tense 01", "negative tense 02", "negative tense 03"],
-    "question": ["question tense 01", "present tense 02", "present tense 03"],
-    "createdAt": {
-      "$date": "2021-12-09T04:44:35.382Z"
-    },
-    "updatedAt": {
-      "$date": "2021-12-09T04:44:35.382Z"
-    },
-    "__v": 0
-  }
+    {
+        "_id": "61b4531ef47f36374a5f34a8",
+        "lessonNumber": "01",
+        "topic": "Simple Future Tense",
+        "description": "wm mqreoaola jYfhka fyda ks;sm;d lrkq ,nk l%shd ms<sn| woyia m< lsÍï i|yd fuu ld,h Ndú;d lrhs",
+        "present": [
+            {
+                "sentence": "I go to the school",
+                "meaning": "uu mdi,a hkjd",
+                "_id": "61b4531ef47f36374a5f34a9"
+            },
+            {
+                "sentence": "I go to the class",
+                "meaning": "uu mdi,a hkjd",
+                "_id": "61b4531ef47f36374a5f34aa"
+            }
+        ],
+        "negative": [
+            {
+                "sentence": "I go to the school negative",
+                "meaning": "uu mdi,a hkjd",
+                "_id": "61b4531ef47f36374a5f34ab"
+            },
+            {
+                "sentence": "I go to the class negative",
+                "meaning": "uu mdi,a hkjd",
+                "_id": "61b4531ef47f36374a5f34ac"
+            }
+        ],
+        "question": [
+            {
+                "sentence": "I go to the school question",
+                "meaning": "සිතිජ ",
+                "_id": "61b4531ef47f36374a5f34ad"
+            },
+            {
+                "sentence": "I go to the class question",
+                "meaning": "uu mdi,a hkjd",
+                "_id": "61b4531ef47f36374a5f34ae"
+            }
+        ],
+        "createdAt": "2021-12-11T07:28:30.275Z",
+        "updatedAt": "2021-12-11T07:28:30.275Z",
+        "__v": 0
+    }
+
 ]
