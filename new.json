@@ -1,114 +1,133 @@
-{
-    "_id": {
-        "$oid": "61bf30fbdcab94081b00f5e6"
+[{
+  "_id": {
+    "$oid": "61bf30fbdcab94081b00f5e6"
+  },
+  "lessonNumber": "01",
+  "topic": "Simple Present Tense",
+  "description": "අප පුරුද්දක් වශයෙන් හෝ නිතිපතා කරනු ලබන ක්‍රියා පිළිබඳ අදහස් පළ කිරීම සඳහා මෙම කාලය භාවිතා කරයි.",
+  "present": [
+    {
+      "sentence": "We play cricket",
+      "meaning": "අපි ක්‍රිකට් ක්‍රීඩා කරනවා",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5e7"
+      }
     },
-    "lessonNumber": "01",
-    "topic": "Simple Present Tense",
-    "description": "අප පුරුද්දක් වශයෙන් හෝ නිතිපතා කරනු ලබන ක්‍රියා පිළිබඳ අදහස් පළ කිරීම සඳහා මෙම කාලය භාවිතා කරයි.",
-    "present": [{
-        "sentence": "We play cricket",
-        "meaning": "අපි ක්‍රිකට් ක්‍රීඩා කරනවා",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5e7"
-        }
-    }, {
-        "sentence": "I go to school every day",
-        "meaning": "මම හැම හැමදාම පාසල් යමි",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5e8"
-        }
-    }, {
-        "sentence": "Children learn well",
-        "meaning": "ළමයි හොඳට ඉගෙන ගන්නවා",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5e9"
-        }
-    }, {
-        "sentence": "He writes a letter",
-        "meaning": "ඔහු ලියුමක් ලියනවා",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5ea"
-        }
-    }, {
-        "sentence": "She tells lies",
-        "meaning": "ඇය බොරු කියනවා",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5eb"
-        }
-    }],
-    "negative": [{
-        "sentence": "She doesn't use a watch",
-        "meaning": "ඇය ඔරලෝසුවක් පාවිච්චි කරන්නෑ",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5ec"
-        }
-    }, {
-        "sentence": "He doesn't know everything",
-        "meaning": "ඔහු හැම දෙයක්ම දන්නේ නෑ",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5ed"
-        }
-    }, {
-        "sentence": "I don't think",
-        "meaning": "මම කල්පනා කරන් නෑෑ",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5ee"
-        }
-    }, {
-        "sentence": "I don't celebrate my birthday",
-        "meaning": "මම මගේ උපන් දිනය සමරන්නේ නෑ",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5ef"
-        }
-    }, {
-        "sentence": "We don't think about our safety",
-        "meaning": "අපි හිතන්නෑ අපේ ආරක්ෂාව ගැන",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5f0"
-        }
-    }],
-    "question": [{
-        "sentence": "Does she cook well?",
-        "meaning": "ඇය හොඳට උයනවද?",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5f1"
-        }
-    }, {
-        "sentence": "Does he watch teledrama?",
-        "meaning": "ඔහු ටෙලි නාට්‍ය බලනවද?",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5f2"
-        }
-    }, {
-        "sentence": "Does she speak English?",
-        "meaning": "ඇය ඉංග්‍රීසියෙන් කතා කරනවද?",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5f3"
-        }
-    }, {
-        "sentence": "Do you go there?",
-        "meaning": "ඔයා එහේ යනවද?",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5f4"
-        }
-    }, {
-        "sentence": "Do they work hard?",
-        "meaning": "ඒගොල්ලො මහන්සි වෙලා වැඩ කරනවද?",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5f5"
-        }
-    }, {
-        "sentence": "Do you read books?",
-        "meaning": "ඔයා පොත් කියවනවද?",
-        "_id": {
-            "$oid": "61bf30fbdcab94081b00f5f6"
-        }
-    }],
-    "createdAt": {
-        "$date": "2021-12-19T13:17:47.606Z"
+    {
+      "sentence": "I go to school every day",
+      "meaning": "මම හැම හැමදාම පාසල් යමි",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5e8"
+      }
     },
-    "updatedAt": {
-        "$date": "2021-12-19T13:17:47.606Z"
+    {
+      "sentence": "Children learn well",
+      "meaning": "ළමයි හොඳට ඉගෙන ගන්නවා",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5e9"
+      }
     },
-    "__v": 0
-}
+    {
+      "sentence": "He writes a letter",
+      "meaning": "ඔහු ලියුමක් ලියනවා",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5ea"
+      }
+    },
+    {
+      "sentence": "She tells lies",
+      "meaning": "ඇය බොරු කියනවා",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5eb"
+      }
+    }
+  ],
+  "negative": [
+    {
+      "sentence": "She doesn't use a watch",
+      "meaning": "ඇය ඔරලෝසුවක් පාවිච්චි කරන්නෑ",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5ec"
+      }
+    },
+    {
+      "sentence": "He doesn't know everything",
+      "meaning": "ඔහු හැම දෙයක්ම දන්නේ නෑ",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5ed"
+      }
+    },
+    {
+      "sentence": "I don't think",
+      "meaning": "මම කල්පනා කරන් නෑෑ",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5ee"
+      }
+    },
+    {
+      "sentence": "I don't celebrate my birthday",
+      "meaning": "මම මගේ උපන් දිනය සමරන්නේ නෑ",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5ef"
+      }
+    },
+    {
+      "sentence": "We don't think about our safety",
+      "meaning": "අපි හිතන්නෑ අපේ ආරක්ෂාව ගැන",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5f0"
+      }
+    }
+  ],
+  "question": [
+    {
+      "sentence": "Does she cook well?",
+      "meaning": "ඇය හොඳට උයනවද?",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5f1"
+      }
+    },
+    {
+      "sentence": "Does he watch teledrama?",
+      "meaning": "ඔහු ටෙලි නාට්‍ය බලනවද?",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5f2"
+      }
+    },
+    {
+      "sentence": "Does she speak English?",
+      "meaning": "ඇය ඉංග්‍රීසියෙන් කතා කරනවද?",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5f3"
+      }
+    },
+    {
+      "sentence": "Do you go there?",
+      "meaning": "ඔයා එහේ යනවද?",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5f4"
+      }
+    },
+    {
+      "sentence": "Do they work hard?",
+      "meaning": "ඒගොල්ලො මහන්සි වෙලා වැඩ කරනවද?",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5f5"
+      }
+    },
+    {
+      "sentence": "Do you read books?",
+      "meaning": "ඔයා පොත් කියවනවද?",
+      "_id": {
+        "$oid": "61bf30fbdcab94081b00f5f6"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-19T13:17:47.606Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-19T13:17:47.606Z"
+  },
+  "__v": 0
+}]
