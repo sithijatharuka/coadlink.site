@@ -1,0 +1,50 @@
+[
+  {
+    "vocabName": "Basic Sentences",
+    "vocabType": [
+      {
+        "subTopic": "Saying Hello & Goodbye.",
+        "examples": ["Hi!1 ", "Bye!", "How are you?", " I'm OK, thanks"]
+      },
+      {
+        "subTopic": "Good Wishes",
+        "examples": ["Hi!2 ", "Bye!", "How are you?", " I'm OK, thanks", "2"]
+      },
+      {
+        "subTopic": "Good Wishes",
+        "examples": ["Hi!2 ", "Bye!", "How are you?", " I'm OK, thanks", "3"]
+      },
+      {
+        "subTopic": "Good Wishes",
+        "examples": ["Hi!2 ", "Bye!", "How are you?", " I'm OK, thanks"]
+      }
+    ]
+  },
+
+  {
+    "vocabName": "General Conversation",
+    "vocabType": [
+      {
+        "subTopic": "02 Genarel Goodbye",
+        "examples": ["dog 5", "Bye!", "How are you?", " I’m OK, thanks"]
+      },
+      {
+        "subTopic": "Saying Hello & Goodbye",
+        "examples": ["dog 6 ", "Bye!", "How are you?", " I’m OK, thanks"]
+      }
+    ]
+  },
+  {
+    "vocabName": "3 General Conversation",
+    "vocabType": [
+      {
+        "subTopic": "02 Genarel Goodbye",
+        "examples": ["dog 1  ", "Bye!", "How are you?", " I’m OK, thanks"]
+      },
+      {
+        "subTopic": "Saying Hello & Goodbye",
+        "examples": ["dog 1", "Bye! 2"]
+      }
+    ]
+  }
+]
