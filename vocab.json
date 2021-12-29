@@ -1,50 +1,633 @@
-[
-  {
-    "vocabName": "Basic Sentences",
-    "vocabType": [
-      {
-        "subTopic": "Saying Hello & Goodbye.",
-        "examples": ["Hi!1 ", "Bye!", "How are you?", " I'm OK, thanks"]
-      },
-      {
-        "subTopic": "Good Wishes",
-        "examples": ["Hi!2 ", "Bye!", "How are you?", " I'm OK, thanks", "2"]
-      },
-      {
-        "subTopic": "Good Wishes",
-        "examples": ["Hi!2 ", "Bye!", "How are you?", " I'm OK, thanks", "3"]
-      },
-      {
-        "subTopic": "Good Wishes",
-        "examples": ["Hi!2 ", "Bye!", "How are you?", " I'm OK, thanks"]
-      }
-    ]
+[{
+  "_id": {
+    "$oid": "61cc02c9b4c22f33966abf43"
   },
-
-  {
-    "vocabName": "General Conversation",
-    "vocabType": [
-      {
-        "subTopic": "02 Genarel Goodbye",
-        "examples": ["dog 5", "Bye!", "How are you?", " I’m OK, thanks"]
-      },
-      {
-        "subTopic": "Saying Hello & Goodbye",
-        "examples": ["dog 6 ", "Bye!", "How are you?", " I’m OK, thanks"]
+  "vocabName": "Basic Sentences",
+  "vocabType": [
+    {
+      "subTopic": "Saying Hello & Goodbye",
+      "examples": [
+        "Hi! ",
+        "Bye!",
+        "How are you?",
+        "I'm OK, thanks"
+      ],
+      "_id": {
+        "$oid": "61cc02c9b4c22f33966abf44"
       }
-    ]
+    },
+    {
+      "subTopic": "Good Wishes",
+      "examples": [
+        "Good Luck!",
+        "Same to you!",
+        "Have fun!",
+        "Take care!"
+      ],
+      "_id": {
+        "$oid": "61cc02c9b4c22f33966abf45"
+      }
+    },
+    {
+      "subTopic": "Thanks",
+      "examples": [
+        "Thank you.",
+        "You're welcome.",
+        "Happy to help.",
+        "No,thanks."
+      ],
+      "_id": {
+        "$oid": "61cc02c9b4c22f33966abf46"
+      }
+    },
+    {
+      "subTopic": "Apologies",
+      "examples": [
+        "I'm sorry.",
+        "That's all right.",
+        "Excuse me.",
+        "No problem."
+      ],
+      "_id": {
+        "$oid": "61cc02c9b4c22f33966abf47"
+      }
+    },
+    {
+      "subTopic": "Instructions",
+      "examples": [
+        "Look!",
+        "Let's go!",
+        "Hurry up!",
+        "Stop it!"
+      ],
+      "_id": {
+        "$oid": "61cc02c9b4c22f33966abf48"
+      }
+    },
+    {
+      "subTopic": "Short Questions and Answers",
+      "examples": [
+        "Yes.",
+        "No.",
+        "OK.",
+        "Why?"
+      ],
+      "_id": {
+        "$oid": "61cc02c9b4c22f33966abf49"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T06:40:09.677Z"
   },
-  {
-    "vocabName": "3 General Conversation",
-    "vocabType": [
-      {
-        "subTopic": "02 Genarel Goodbye",
-        "examples": ["dog 1  ", "Bye!", "How are you?", " I’m OK, thanks"]
-      },
-      {
-        "subTopic": "Saying Hello & Goodbye",
-        "examples": ["dog 1", "Bye! 2"]
+  "updatedAt": {
+    "$date": "2021-12-29T06:40:09.677Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cc0447b4c22f33966abf4b"
+  },
+  "vocabName": "General Conversation",
+  "vocabType": [
+    {
+      "subTopic": "Making Yourself Understood",
+      "examples": [
+        "Do you understand?",
+        "I understand.",
+        "I don't understand.",
+        "Try to say it."
+      ],
+      "_id": {
+        "$oid": "61cc0447b4c22f33966abf4c"
       }
-    ]
-  }
-]
+    },
+    {
+      "subTopic": "Agreeing and Disagreeing",
+      "examples": [
+        "You are right.",
+        "That's true.",
+        "I agree with you.",
+        "I disagree."
+      ],
+      "_id": {
+        "$oid": "61cc0447b4c22f33966abf4d"
+      }
+    },
+    {
+      "subTopic": "Thanks",
+      "examples": [
+        "Thank you.",
+        "You're welcome.",
+        "Happy to help.",
+        "No,thanks."
+      ],
+      "_id": {
+        "$oid": "61cc0447b4c22f33966abf4e"
+      }
+    },
+    {
+      "subTopic": "Asking for and Giving information",
+      "examples": [
+        "      Where are you?",
+        "I'm at Office.",
+        "I'm in town.",
+        "How was the trip?",
+        "We really enjoyed our trip."
+      ],
+      "_id": {
+        "$oid": "61cc0447b4c22f33966abf4f"
+      }
+    },
+    {
+      "subTopic": "Expressing Feelings",
+      "examples": [
+        "I'm happy.",
+        "I'm sad.",
+        "I'm relaxed.",
+        "I'm tired."
+      ],
+      "_id": {
+        "$oid": "61cc0447b4c22f33966abf50"
+      }
+    },
+    {
+      "subTopic": "Help and Advice",
+      "examples": [
+        "I need your help.",
+        "Can you help me?",
+        "I want to help you.",
+        "What do you think?"
+      ],
+      "_id": {
+        "$oid": "61cc0447b4c22f33966abf51"
+      }
+    },
+    {
+      "subTopic": "Opinions",
+      "examples": [
+        "Do you like it?",
+        "I don't like it.",
+        "It's beautiful.",
+        "It's ugly."
+      ],
+      "_id": {
+        "$oid": "61cc0447b4c22f33966abf52"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T06:46:31.639Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-29T06:46:31.639Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cc07f8b4c22f33966abf54"
+  },
+  "vocabName": "Emergencies",
+  "vocabType": [
+    {
+      "subTopic": "Emergency Situations",
+      "examples": [
+        "Help!",
+        "Run!",
+        "Fire!",
+        "Be careful!"
+      ],
+      "_id": {
+        "$oid": "61cc07f8b4c22f33966abf55"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T07:02:16.396Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-29T07:02:16.396Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cc09bbb4c22f33966abf57"
+  },
+  "vocabName": "Making Friends",
+  "vocabType": [
+    {
+      "subTopic": "Introductions",
+      "examples": [
+        "What's your name?",
+        "My name is Jane.",
+        "I'm Ben.",
+        "This is Lusy.",
+        "What's your surname?"
+      ],
+      "_id": {
+        "$oid": "61cc09bbb4c22f33966abf58"
+      }
+    },
+    {
+      "subTopic": "Place of Residence",
+      "examples": [
+        "Where do you live?",
+        "I live in Sri Lanka.",
+        "I live here.",
+        "What's your address?"
+      ],
+      "_id": {
+        "$oid": "61cc09bbb4c22f33966abf59"
+      }
+    },
+    {
+      "subTopic": "Age, Nationality and Religion",
+      "examples": [
+        "Where are you from?",
+        "I'm from Colombo.",
+        "How old are you?",
+        "I'm twenty-two years old."
+      ],
+      "_id": {
+        "$oid": "61cc09bbb4c22f33966abf5a"
+      }
+    },
+    {
+      "subTopic": "Family and Relationships",
+      "examples": [
+        "This is my brother.",
+        "I'm engaged.",
+        "I'm married.",
+        "I have no children."
+      ],
+      "_id": {
+        "$oid": "61cc09bbb4c22f33966abf5b"
+      }
+    },
+    {
+      "subTopic": "Describing Peoples",
+      "examples": [
+        "I'm a man.",
+        "I'm a woman.",
+        "She's pretty.",
+        "You're very nice."
+      ],
+      "_id": {
+        "$oid": "61cc09bbb4c22f33966abf5c"
+      }
+    },
+    {
+      "subTopic": "Things You Like and Dislike",
+      "examples": [
+        "I like traveling.",
+        "What is your hobby?",
+        "My hobby is photography."
+      ],
+      "_id": {
+        "$oid": "61cc09bbb4c22f33966abf5d"
+      }
+    },
+    {
+      "subTopic": "Accepting and Declining",
+      "examples": [
+        "All right!",
+        "No way!",
+        "Sure.",
+        "Sorry, I can't."
+      ],
+      "_id": {
+        "$oid": "61cc09bbb4c22f33966abf5e"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T07:09:47.912Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-29T07:09:47.912Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cc0a74b4c22f33966abf60"
+  },
+  "vocabName": "Education",
+  "vocabType": [
+    {
+      "subTopic": "At School",
+      "examples": [
+        "The answer is correct.",
+        "The class is over.",
+        "Is this pen yours?",
+        "Please be quiet."
+      ],
+      "_id": {
+        "$oid": "61cc0a74b4c22f33966abf61"
+      }
+    },
+    {
+      "subTopic": "Student Life",
+      "examples": [
+        "I have got a question.",
+        "We have got five exams.",
+        "I was in the library.",
+        "This is very difficult.",
+        "Who is speaking now?"
+      ],
+      "_id": {
+        "$oid": "61cc0a74b4c22f33966abf62"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T07:12:52.728Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-29T07:12:52.728Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cc0bfcb4c22f33966abf64"
+  },
+  "vocabName": "Jobs",
+  "vocabType": [
+    {
+      "subTopic": "Occupation",
+      "examples": [
+        "What's your job?",
+        "I'm a teacher.",
+        "Where do you work?",
+        "I work in a shop."
+      ],
+      "_id": {
+        "$oid": "61cc0bfcb4c22f33966abf65"
+      }
+    },
+    {
+      "subTopic": "At the Workplace",
+      "examples": [
+        "How do you get to work?",
+        "I go by car.",
+        "Do you need any help?",
+        "One moment please.",
+        "I work here."
+      ],
+      "_id": {
+        "$oid": "61cc0bfcb4c22f33966abf66"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T07:19:24.155Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-29T07:19:24.155Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cc0fcbb4c22f33966abf68"
+  },
+  "vocabName": "Travel",
+  "vocabType": [
+    {
+      "subTopic": "Asking Directions",
+      "examples": [
+        "I'm lost.",
+        "Where's this address?",
+        "Is it far from here?",
+        "This way?"
+      ],
+      "_id": {
+        "$oid": "61cc0fcbb4c22f33966abf69"
+      }
+    },
+    {
+      "subTopic": "Giving Directions",
+      "examples": [
+        "Left.",
+        "Right.",
+        "Go back.",
+        "I can show you."
+      ],
+      "_id": {
+        "$oid": "61cc0fcbb4c22f33966abf6a"
+      }
+    },
+    {
+      "subTopic": "Excursions",
+      "examples": [
+        "Are there any tours?",
+        "You can't miss it.",
+        "Can I have a guide?",
+        "Can you take photos?"
+      ],
+      "_id": {
+        "$oid": "61cc0fcbb4c22f33966abf6b"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T07:35:39.827Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-29T07:35:39.827Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cc104db4c22f33966abf6d"
+  },
+  "vocabName": "Plane",
+  "vocabType": [
+    {
+      "subTopic": "Checking in",
+      "examples": [
+        "Your passport, please.",
+        "Which terminal?",
+        "Which gate?",
+        "Enjoy your flight!"
+      ],
+      "_id": {
+        "$oid": "61cc104db4c22f33966abf6e"
+      }
+    },
+    {
+      "subTopic": "Passport Control and Customs",
+      "examples": [
+        "I'm a tourist.",
+        "I am alone.",
+        "Here's my passport.",
+        "Enjoy your stay!",
+        "Next, please!"
+      ],
+      "_id": {
+        "$oid": "61cc104db4c22f33966abf6f"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T07:37:49.095Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-29T07:37:49.095Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cc10beb4c22f33966abf71"
+  },
+  "vocabName": "Car",
+  "vocabType": [
+    {
+      "subTopic": "Car Hire",
+      "examples": [
+        "Can I hire a car?",
+        "I prefer a small car.",
+        "For how long?",
+        "For a week.",
+        "How much does it cost?"
+      ],
+      "_id": {
+        "$oid": "61cc10beb4c22f33966abf72"
+      }
+    },
+    {
+      "subTopic": "Driving and Parking",
+      "examples": [
+        "Take this road.",
+        "Turn right.",
+        "Turn left.",
+        "The traffic is heavy.",
+        "Can I park here?"
+      ],
+      "_id": {
+        "$oid": "61cc10beb4c22f33966abf73"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T07:39:42.096Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-29T07:39:42.096Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cc11a1b4c22f33966abf96"
+  },
+  "vocabName": "Restaurant and Pub",
+  "vocabType": [
+    {
+      "subTopic": "Booking a Table",
+      "examples": [
+        "I'd like to book a table, please.",
+        "When for?",
+        "Tomorrow at noon.",
+        "Reserved"
+      ],
+      "_id": {
+        "$oid": "61cc11a1b4c22f33966abf97"
+      }
+    },
+    {
+      "subTopic": "Ordering Food",
+      "examples": [
+        "The menu, please.",
+        "I want ice cream.",
+        "He'll have a pizza",
+        "I'm a vegetarian.",
+        "Here's your order.",
+        "Is it tasty?"
+      ],
+      "_id": {
+        "$oid": "61cc11a1b4c22f33966abf98"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T07:43:29.080Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-29T07:43:29.080Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cc1202b4c22f33966abf9a"
+  },
+  "vocabName": "Communication Means",
+  "vocabType": [
+    {
+      "subTopic": "Phone",
+      "examples": [
+        "I'll call you.",
+        "Can I speak to Jone?",
+        "Just a moment",
+        "Who's calling?"
+      ],
+      "_id": {
+        "$oid": "61cc1202b4c22f33966abf9b"
+      }
+    },
+    {
+      "subTopic": "At the post Office",
+      "examples": [
+        "Where's the post office?",
+        "Who sent this letter?",
+        "Where's the postbox?",
+        "I'd like to pay this bill."
+      ],
+      "_id": {
+        "$oid": "61cc1202b4c22f33966abf9c"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T07:45:06.186Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-29T07:45:06.186Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61cc1395b4c22f33966abf9e"
+  },
+  "vocabName": "Time and Weather",
+  "vocabType": [
+    {
+      "subTopic": "Telling the time",
+      "examples": [
+        "What's the time?",
+        "It's six p.m.",
+        "Ten thirty.",
+        "Don't be late!"
+      ],
+      "_id": {
+        "$oid": "61cc1395b4c22f33966abf9f"
+      }
+    },
+    {
+      "subTopic": "Weather",
+      "examples": [
+        "It's hot.",
+        "It's icy.",
+        "It's a sunny day.",
+        "What a nice day!"
+      ],
+      "_id": {
+        "$oid": "61cc1395b4c22f33966abfa0"
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": "2021-12-29T07:51:49.021Z"
+  },
+  "updatedAt": {
+    "$date": "2021-12-29T07:51:49.021Z"
+  },
+  "__v": 0
+}]
