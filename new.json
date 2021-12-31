@@ -1,1496 +1,1514 @@
-[{
-  "_id": {
-    "$oid": "61bf30fbdcab94081b00f5e6"
+[
+  {
+    "_id": {
+      "$oid": "61bf30fbdcab94081b00f5e6"
+    },
+    "lessonNumber": "01",
+    "topic": "Simple Present Tense",
+    "description": "අප පුරුද්දක් වශයෙන් හෝ නිතිපතා කරනු ලබන ක්‍රියා පිළිබඳ අදහස් පළ කිරීම සඳහා මෙම කාලය භාවිතා කරයි.",
+    "present": [
+      {
+        "sentence": "We play cricket",
+        "meaning": "අපි ක්‍රිකට් ක්‍රීඩා කරනවා",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5e7"
+        }
+      },
+      {
+        "sentence": "I go to school every day",
+        "meaning": "මම හැම හැමදාම පාසල් යමි",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5e8"
+        }
+      },
+      {
+        "sentence": "Children learn well",
+        "meaning": "ළමයි හොඳට ඉගෙන ගන්නවා",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5e9"
+        }
+      },
+      {
+        "sentence": "He writes a letter",
+        "meaning": "ඔහු ලියුමක් ලියනවා",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5ea"
+        }
+      },
+      {
+        "sentence": "She tells lies",
+        "meaning": "ඇය බොරු කියනවා",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5eb"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "She doesn't use a watch",
+        "meaning": "ඇය ඔරලෝසුවක් පාවිච්චි කරන්නෑ",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5ec"
+        }
+      },
+      {
+        "sentence": "He doesn't know everything",
+        "meaning": "ඔහු හැම දෙයක්ම දන්නේ නෑ",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5ed"
+        }
+      },
+      {
+        "sentence": "I don't think",
+        "meaning": "මම කල්පනා කරන් නෑ",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5ee"
+        }
+      },
+      {
+        "sentence": "I don't celebrate my birthday",
+        "meaning": "මම මගේ උපන් දිනය සමරන්නේ නෑ",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5ef"
+        }
+      },
+      {
+        "sentence": "We don't think about our safety",
+        "meaning": "අපි හිතන්නෑ අපේ ආරක්ෂාව ගැන",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5f0"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Does she cook well?",
+        "meaning": "ඇය හොඳට උයනවද?",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5f1"
+        }
+      },
+      {
+        "sentence": "Does he watch teledramas?",
+        "meaning": "ඔහු ටෙලි නාට්‍ය බලනවද?",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5f2"
+        }
+      },
+      {
+        "sentence": "Does she speak English?",
+        "meaning": "ඇය ඉංග්‍රීසියෙන් කතා කරනවද?",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5f3"
+        }
+      },
+      {
+        "sentence": "Do you go there?",
+        "meaning": "ඔයා එහේ යනවද?",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5f4"
+        }
+      },
+      {
+        "sentence": "Do they work hard?",
+        "meaning": "ඒගොල්ලෝ මහන්සි වෙලා වැඩ කරනවද?",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5f5"
+        }
+      },
+      {
+        "sentence": "Do you read books?",
+        "meaning": "ඔයා පොත් කියවනවද?",
+        "_id": {
+          "$oid": "61bf30fbdcab94081b00f5f6"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-19T13:17:47.606Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-19T13:17:47.606Z"
+    },
+    "__v": 0
   },
-  "lessonNumber": "01",
-  "topic": "Simple Present Tense",
-  "description": "අප පුරුද්දක් වශයෙන් හෝ නිතිපතා කරනු ලබන ක්‍රියා පිළිබඳ අදහස් පළ කිරීම සඳහා මෙම කාලය භාවිතා කරයි.",
-  "present": [
-    {
-      "sentence": "We play cricket",
-      "meaning": "අපි ක්‍රිකට් ක්‍රීඩා කරනවා",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5e7"
-      }
+  {
+    "_id": {
+      "$oid": "61c011751d20f4b50f48f4d0"
     },
-    {
-      "sentence": "I go to school every day",
-      "meaning": "මම හැම හැමදාම පාසල් යමි",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5e8"
+    "lessonNumber": "02",
+    "topic": "Present Continuous Tense",
+    "description": "අප කතා කරන අවස්ථාවේ සිදු වෙමින් පවතින ක්‍රියාවක් දැක්වීමට භාවිතා කෙරේ",
+    "present": [
+      {
+        "sentence": "I am going to the school",
+        "meaning": "මම පාසල් යමින් ඉන්නවා",
+        "_id": {
+          "$oid": "61c011751d20f4b50f48f4d1"
+        }
+      },
+      {
+        "sentence": "She is drawing a picture",
+        "meaning": "ඇය චිත්‍රයක් අඳිමින් ඉන්නවා",
+        "_id": {
+          "$oid": "61c011751d20f4b50f48f4d2"
+        }
+      },
+      {
+        "sentence": "We are learning English",
+        "meaning": "අපි ඉංග්‍රීසි ඉගෙන ගනිමින් ඉන්නවා",
+        "_id": {
+          "$oid": "61c011751d20f4b50f48f4d3"
+        }
+      },
+      {
+        "sentence": "He is writing a poem",
+        "meaning": "ඔහු කවියක් ලියමින් ඉන්නවා",
+        "_id": {
+          "$oid": "61c011751d20f4b50f48f4d4"
+        }
       }
+    ],
+    "negative": [
+      {
+        "sentence": "He is not working",
+        "meaning": "ඔහු වැඩ කරමින් නෙමෙයි ඉන්නේ",
+        "_id": {
+          "$oid": "61c011751d20f4b50f48f4d5"
+        }
+      },
+      {
+        "sentence": "He isn't crying",
+        "meaning": "එයා අඬ අඬා නෙමෙයි ඉන්නේ",
+        "_id": {
+          "$oid": "61c011751d20f4b50f48f4d6"
+        }
+      },
+      {
+        "sentence": "Children aren't playing",
+        "meaning": "ළමයි සෙල්ලම් කර කර නෙමෙයි ඉන්නේ",
+        "_id": {
+          "$oid": "61c011751d20f4b50f48f4d7"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Are they playing cricket?",
+        "meaning": "ඔවුන් ඉන්නේ ක්‍රිකට් සෙල්ලම් කරමින්ද?",
+        "_id": {
+          "$oid": "61c011751d20f4b50f48f4d8"
+        }
+      },
+      {
+        "sentence": "Are you crying?",
+        "meaning": "ඔයා අඬමින් ද ඉන්නේ?",
+        "_id": {
+          "$oid": "61c011751d20f4b50f48f4d9"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-20T05:15:33.131Z"
     },
-    {
-      "sentence": "Children learn well",
-      "meaning": "ළමයි හොඳට ඉගෙන ගන්නවා",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5e9"
-      }
+    "updatedAt": {
+      "$date": "2021-12-20T05:15:33.131Z"
     },
-    {
-      "sentence": "He writes a letter",
-      "meaning": "ඔහු ලියුමක් ලියනවා",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5ea"
-      }
-    },
-    {
-      "sentence": "She tells lies",
-      "meaning": "ඇය බොරු කියනවා",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5eb"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "She doesn't use a watch",
-      "meaning": "ඇය ඔරලෝසුවක් පාවිච්චි කරන්නෑ",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5ec"
-      }
-    },
-    {
-      "sentence": "He doesn't know everything",
-      "meaning": "ඔහු හැම දෙයක්ම දන්නේ නෑ",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5ed"
-      }
-    },
-    {
-      "sentence": "I don't think",
-      "meaning": "මම කල්පනා කරන් නෑ",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5ee"
-      }
-    },
-    {
-      "sentence": "I don't celebrate my birthday",
-      "meaning": "මම මගේ උපන් දිනය සමරන්නේ නෑ",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5ef"
-      }
-    },
-    {
-      "sentence": "We don't think about our safety",
-      "meaning": "අපි හිතන්නෑ අපේ ආරක්ෂාව ගැන",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5f0"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Does she cook well?",
-      "meaning": "ඇය හොඳට උයනවද?",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5f1"
-      }
-    },
-    {
-      "sentence": "Does he watch teledramas?",
-      "meaning": "ඔහු ටෙලි නාට්‍ය බලනවද?",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5f2"
-      }
-    },
-    {
-      "sentence": "Does she speak English?",
-      "meaning": "ඇය ඉංග්‍රීසියෙන් කතා කරනවද?",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5f3"
-      }
-    },
-    {
-      "sentence": "Do you go there?",
-      "meaning": "ඔයා එහේ යනවද?",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5f4"
-      }
-    },
-    {
-      "sentence": "Do they work hard?",
-      "meaning": "ඒගොල්ලෝ මහන්සි වෙලා වැඩ කරනවද?",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5f5"
-      }
-    },
-    {
-      "sentence": "Do you read books?",
-      "meaning": "ඔයා පොත් කියවනවද?",
-      "_id": {
-        "$oid": "61bf30fbdcab94081b00f5f6"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-19T13:17:47.606Z"
+    "__v": 0
   },
-  "updatedAt": {
-    "$date": "2021-12-19T13:17:47.606Z"
+  {
+    "_id": {
+      "$oid": "61c0160b1d20f4b50f48f4db"
+    },
+    "lessonNumber": "03",
+    "topic": "Present Perfect Tense",
+    "description": "ලා ශබ්දයෙන් අවසන් වෙන ඇවිල්ලා, ගිහිල්ලා, වැනි අදහස් කියන්න අපි මෙම කාලය භාවිතා කරනවා. එහෙම නැත්නම් ඇවිල්ලා තියනවා, ගිහිල්ලා තියනවා, දැකලා තියනවා, වැනි අදහස් කියන්නත් මේ වගේ වාක්‍ය රටා යොදා ගන්නවා",
+    "present": [
+      {
+        "sentence": "Somebody has come",
+        "meaning": "කවුදෝ ඇවිල්ලා",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4dc"
+        }
+      },
+      {
+        "sentence": "He has gone out",
+        "meaning": "ඔහු එළියට ගිහිල්ලා",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4dd"
+        }
+      },
+      {
+        "sentence": "They have changed the decision",
+        "meaning": "ඔවුන් තීරණය වෙනස් කරලා",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4de"
+        }
+      },
+      {
+        "sentence": "He has told everyone about that",
+        "meaning": "ඔහු කියලා හැමෝටම ඒ ගැන",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4df"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "I haven't visited Sigiriya yet",
+        "meaning": "මම සීගිරිය බලන්න ගිහිල්ලා නෑ තාම",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4e0"
+        }
+      },
+      {
+        "sentence": "He hasn't told such a story",
+        "meaning": "ඔහු කියලා නෑ ඒ වගේ කතාවක්",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4e1"
+        }
+      },
+      {
+        "sentence": "He hasn't done your work yet",
+        "meaning": "ඔහු ඔයාගේ වැඩේ කරලා නෑ තාමේ",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4e2"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Have you gone Kandy?",
+        "meaning": "ඔයා නුවර ගිහිල්ලා තියෙනවද?",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4e3"
+        }
+      },
+      {
+        "sentence": "Have they had lunch?",
+        "meaning": "ඒගොල්ලෝ දවල්ට කාලද?",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4e4"
+        }
+      },
+      {
+        "sentence": "Have I ever told you a lie?",
+        "meaning": "කවදා හරි මම ඔයාට බොරුවක් කියලා තියෙනවද?",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4e5"
+        }
+      },
+      {
+        "sentence": "Has he come for lectures today?",
+        "meaning": "එයා අද ලෙක්චර්ස් වලට ඇවිල්ලද?",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4e6"
+        }
+      },
+      {
+        "sentence": "Haven't they come?",
+        "meaning": "ඒ ගොල්ලෝ ඇවිල්ලා නැද්ද?",
+        "_id": {
+          "$oid": "61c0160b1d20f4b50f48f4e7"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-20T05:35:07.259Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-20T05:35:07.259Z"
+    },
+    "__v": 0
   },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61c011751d20f4b50f48f4d0"
+  {
+    "_id": {
+      "$oid": "61c03cad03628c7f00773736"
+    },
+    "lessonNumber": "04",
+    "topic": "Present Perfect Continuous Tense",
+    "description": "අතීතයෙන් පටන් අරන් තවමත් කරගෙන යන ක්‍රියා විස්තර කිරීම සඳහා මේ කාලය භාවිතා කරයි",
+    "present": [
+      {
+        "sentence": "We have been learning English since February",
+        "meaning": "අපි පෙබරවාරි මාසයේ ඉඳලා ඉංග්‍රීසි ඉගෙන ගනිමින් ඉඳලා තියෙනවා",
+        "_id": {
+          "$oid": "61c03cad03628c7f00773737"
+        }
+      },
+      {
+        "sentence": "I have been teaching in that school for two years",
+        "meaning": "වසර දෙකක් තිස්සේ මම ඒ පාසලේ උගන්වමින් ඉඳලා තියෙනවා",
+        "_id": {
+          "$oid": "61c03cad03628c7f00773738"
+        }
+      },
+      {
+        "sentence": "They have been working in that company since last year",
+        "meaning": "ගිය අවුරුද්දේ ඉඳලා ඒගොල්ලෝ ඒ සමාගමේ වැඩ කරමින් ඉඳලා තියෙනවා",
+        "_id": {
+          "$oid": "61c03cad03628c7f00773739"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "I haven't been teaching English since last year",
+        "meaning": "මම ගිය  අවුරුද්දේ ඉඳලා ඉංග්‍රීසි ගන්වමින් ඉදලා නෑ",
+        "_id": {
+          "$oid": "61c03cad03628c7f0077373a"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Have you been working in the garden since 8.00 am?",
+        "meaning": "ඔවුන් පෙරවරු 8.00 සිට වත්තේ වැඩ කරමින් ඉදල තියෙනවද?",
+        "_id": {
+          "$oid": "61c03cad03628c7f0077373b"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-20T08:19:57.745Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-20T08:19:57.745Z"
+    },
+    "__v": 0
   },
-  "lessonNumber": "02",
-  "topic": "Present Continuous Tense",
-  "description": "අප කතා කරන අවස්ථාවේ සිදු වෙමින් පවතින ක්‍රියාවක් දැක්වීමට භාවිතා කෙරේ",
-  "present": [
-    {
-      "sentence": "I am going to the school",
-      "meaning": "මම පාසල් යමින් ඉන්නවා",
-      "_id": {
-        "$oid": "61c011751d20f4b50f48f4d1"
-      }
+  {
+    "_id": {
+      "$oid": "61c0446803628c7f0077373d"
     },
-    {
-      "sentence": "She is drawing a picture",
-      "meaning": "ඇය චිත්‍රයක් අඳිමින් ඉන්නවා",
-      "_id": {
-        "$oid": "61c011751d20f4b50f48f4d2"
+    "lessonNumber": "05",
+    "topic": "Simple Past Tense",
+    "description": "අතීත කාලය තුළ සම්පූර්ණ කරන ලද ක්‍රියාවක් දැක්වීමට මෙම කාලය යොදා ගැනේ",
+    "present": [
+      {
+        "sentence": "They played cricket",
+        "meaning": "ඒගොල්ලෝ ක්‍රිකට් සෙල්ලම් කළා",
+        "_id": {
+          "$oid": "61c0446803628c7f0077373e"
+        }
+      },
+      {
+        "sentence": "He paid the bill",
+        "meaning": "ඔහු බිල ගෙව්වා",
+        "_id": {
+          "$oid": "61c0446803628c7f0077373f"
+        }
+      },
+      {
+        "sentence": "They won the match",
+        "meaning": "ඒගොල්ලෝ තරගය දින්නා",
+        "_id": {
+          "$oid": "61c0446803628c7f00773740"
+        }
+      },
+      {
+        "sentence": "I slept well",
+        "meaning": "මම හොඳට නිදාගත්තා",
+        "_id": {
+          "$oid": "61c0446803628c7f00773741"
+        }
       }
+    ],
+    "negative": [
+      {
+        "sentence": "I didn't read the book",
+        "meaning": "මම පොත කියෙව්වේ නෑ",
+        "_id": {
+          "$oid": "61c0446803628c7f00773742"
+        }
+      },
+      {
+        "sentence": "They didn't know about me",
+        "meaning": "ඒගොල්ලෝ දැනගත්තේ නෑ මම ගැන",
+        "_id": {
+          "$oid": "61c0446803628c7f00773743"
+        }
+      },
+      {
+        "sentence": "We didn't visit the zoo last year",
+        "meaning": "ගිය අවුරුද්දේ අපි සත්තු වත්ත බලන්න ගියේ නෑ",
+        "_id": {
+          "$oid": "61c0446803628c7f00773744"
+        }
+      },
+      {
+        "sentence": "He didn't blame me",
+        "meaning": "ඔහු මට බැන්නේ නෑ",
+        "_id": {
+          "$oid": "61c0446803628c7f00773745"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Did you bring my book?",
+        "meaning": "ඔයා මගේ පොත ගෙනාවද?",
+        "_id": {
+          "$oid": "61c0446803628c7f00773746"
+        }
+      },
+      {
+        "sentence": "Did they help you?",
+        "meaning": "ඔවුන් ඔබට උදව් කලාද?",
+        "_id": {
+          "$oid": "61c0446803628c7f00773747"
+        }
+      },
+      {
+        "sentence": "Did he buy a new car?",
+        "meaning": "ඔහු අලුත් කාර් එකක් මිලදී ගත්තද?",
+        "_id": {
+          "$oid": "61c0446803628c7f00773748"
+        }
+      },
+      {
+        "sentence": "Did she solve the problem?",
+        "meaning": "ඇය ප්‍රශ්නය විසඳ ගත්තද?",
+        "_id": {
+          "$oid": "61c0446803628c7f00773749"
+        }
+      },
+      {
+        "sentence": "Did you see me?",
+        "meaning": "ඔයා මාව දැක්කද?",
+        "_id": {
+          "$oid": "61c0446803628c7f0077374a"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-20T08:52:56.030Z"
     },
-    {
-      "sentence": "We are learning English",
-      "meaning": "අපි ඉංග්‍රීසි ඉගෙන ගනිමින් ඉන්නවා",
-      "_id": {
-        "$oid": "61c011751d20f4b50f48f4d3"
-      }
+    "updatedAt": {
+      "$date": "2021-12-20T08:52:56.030Z"
     },
-    {
-      "sentence": "He is writing a poem",
-      "meaning": "ඔහු කවියක් ලියමින් ඉන්නවා",
-      "_id": {
-        "$oid": "61c011751d20f4b50f48f4d4"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "He is not working",
-      "meaning": "ඔහු වැඩ කරමින් නෙමෙයි ඉන්නේ",
-      "_id": {
-        "$oid": "61c011751d20f4b50f48f4d5"
-      }
-    },
-    {
-      "sentence": "He isn't crying",
-      "meaning": "එයා අඬ අඬා නෙමෙයි ඉන්නේ",
-      "_id": {
-        "$oid": "61c011751d20f4b50f48f4d6"
-      }
-    },
-    {
-      "sentence": "Children aren't playing",
-      "meaning": "ළමයි සෙල්ලම් කර කර නෙමෙයි ඉන්නේ",
-      "_id": {
-        "$oid": "61c011751d20f4b50f48f4d7"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Are they playing cricket?",
-      "meaning": "ඔවුන් ඉන්නේ ක්‍රිකට් සෙල්ලම් කරමින්ද?",
-      "_id": {
-        "$oid": "61c011751d20f4b50f48f4d8"
-      }
-    },
-    {
-      "sentence": "Are you crying?",
-      "meaning": "ඔයා අඬමින් ද ඉන්නේ?",
-      "_id": {
-        "$oid": "61c011751d20f4b50f48f4d9"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-20T05:15:33.131Z"
+    "__v": 0
   },
-  "updatedAt": {
-    "$date": "2021-12-20T05:15:33.131Z"
+  {
+    "_id": {
+      "$oid": "61c04a3503628c7f0077374c"
+    },
+    "lessonNumber": "06",
+    "topic": "Past Continuous Tense",
+    "description": "අතීත කාලයේ කිසියම් අවස්ථාවක සිදු වෙමින් පැවැති ක්‍රියාවක් විස්තර කිරීමට මෙම කාලය භාවිතා කරයි",
+    "present": [
+      {
+        "sentence": "She was doing some official work",
+        "meaning": "ඇය කාර්යාලීය වැඩ වගයක් කරමින් හිටියා",
+        "_id": {
+          "$oid": "61c04a3503628c7f0077374d"
+        }
+      },
+      {
+        "sentence": "They were planning our future",
+        "meaning": "ඒගොල්ලෝ සැලසුම් කරමින් හිටියා අපේ අනාගතය ගැන",
+        "_id": {
+          "$oid": "61c04a3503628c7f0077374e"
+        }
+      },
+      {
+        "sentence": "She was singing a song",
+        "meaning": "ඇය සිංදුවක් කියමින් හිටියා",
+        "_id": {
+          "$oid": "61c04a3503628c7f0077374f"
+        }
+      },
+      {
+        "sentence": "They were asking for help",
+        "meaning": "ඒගොල්ලෝ උදව් ඉල්ලමින් හිටියා",
+        "_id": {
+          "$oid": "61c04a3503628c7f00773750"
+        }
+      },
+      {
+        "sentence": "We were speaking about your driving",
+        "meaning": "අපි කතා කර කර හිටියේ ඔයාගේ ඩ්‍රයිවින් ගැන",
+        "_id": {
+          "$oid": "61c04a3503628c7f00773751"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "I wasn't reading a book",
+        "meaning": "මම පොතක් කියවමින් නෙමෙයි හිටියේ",
+        "_id": {
+          "$oid": "61c04a3503628c7f00773752"
+        }
+      },
+      {
+        "sentence": "We weren't playing cricket",
+        "meaning": "අපි ක්‍රිකට් සෙල්ලම් කරමින් නෙමෙයි හිටියේ",
+        "_id": {
+          "$oid": "61c04a3503628c7f00773753"
+        }
+      },
+      {
+        "sentence": "They weren't leading a good life",
+        "meaning": "ඒගොල්ලෝ හොඳ ජීවිතයක් ගත කරමින් නෙමෙයි හිටියේ",
+        "_id": {
+          "$oid": "61c04a3503628c7f00773754"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Was she drawing a picture?",
+        "meaning": "ඇය චිත්‍රයක් අඳිමින් ද හිටියේ?",
+        "_id": {
+          "$oid": "61c04a3503628c7f00773755"
+        }
+      },
+      {
+        "sentence": "Were you cooking at that time?",
+        "meaning": "ඔයා උයමින් ද හිටියේ ඒ වෙලාවේ?",
+        "_id": {
+          "$oid": "61c04a3503628c7f00773756"
+        }
+      },
+      {
+        "sentence": "Was he writing a book?",
+        "meaning": "ඔහු පොතක් ලියමින් ද හිටියේ?",
+        "_id": {
+          "$oid": "61c04a3503628c7f00773757"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-20T09:17:41.765Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-20T09:17:41.765Z"
+    },
+    "__v": 0
   },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61c0160b1d20f4b50f48f4db"
+  {
+    "_id": {
+      "$oid": "61c0589a03628c7f00773759"
+    },
+    "lessonNumber": "07",
+    "topic": "Past Perfect Tense",
+    "description": "අතීත කාලයේ කිසියම් මොහොතකට පෙර සම්පූර්ණ කරන ලද ක්‍රියාවක් දැක්වීම සඳහා මෙම කාලය යොදා ගැනේ",
+    "present": [
+      {
+        "sentence": "He had blamed to us",
+        "meaning": "එයා අපිට බැනලා තිබුණා",
+        "_id": {
+          "$oid": "61c0589a03628c7f0077375a"
+        }
+      },
+      {
+        "sentence": "She had brought my book",
+        "meaning": "ඇය මගේ පොත ගෙනත් තිබුණා",
+        "_id": {
+          "$oid": "61c0589a03628c7f0077375b"
+        }
+      },
+      {
+        "sentence": "When I went to the bookshop it had closed",
+        "meaning": "මම පොත් සාප්පුවට ගිය විට එය වසා තිබුණි",
+        "_id": {
+          "$oid": "61c0589a03628c7f0077375c"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "He had not sent me a reply",
+        "meaning": "ඔහු මට පිළිතුරක් ඒවා වුණේ තිබුණේ නෑ",
+        "_id": {
+          "$oid": "61c0589a03628c7f0077375d"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Had they won the match?",
+        "meaning": "ඒගොල්ලෝ තරඟය දිනලා තිබුණද?",
+        "_id": {
+          "$oid": "61c0589a03628c7f0077375e"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-20T10:19:06.316Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-20T10:19:06.316Z"
+    },
+    "__v": 0
   },
-  "lessonNumber": "03",
-  "topic": "Present Perfect Tense",
-  "description": "ලා ශබ්දයෙන් අවසන් වෙන ඇවිල්ලා, ගිහිල්ලා, වැනි අදහස් කියන්න අපි මෙම කාලය භාවිතා කරනවා. එහෙම නැත්නම් ඇවිල්ලා තියනවා, ගිහිල්ලා තියනවා, දැකලා තියනවා, වැනි අදහස් කියන්නත් මේ වගේ වාක්‍ය රටා යොදා ගන්නවා",
-  "present": [
-    {
-      "sentence": "Somebody has come",
-      "meaning": "කවුදෝ ඇවිල්ලා",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4dc"
-      }
+  {
+    "_id": {
+      "$oid": "61c0595403628c7f00773766"
     },
-    {
-      "sentence": "He has gone out",
-      "meaning": "ඔහු එළියට ගිහිල්ලා",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4dd"
+    "lessonNumber": "08",
+    "topic": "Past Perfect Continuous Tense Not completed",
+    "description": "සම්පූර්ණ කර නැත",
+    "present": [
+      {
+        "sentence": "Not complete",
+        "meaning": "එයා අපිට බැනලා තිබුණා",
+        "_id": {
+          "$oid": "61c0595403628c7f00773767"
+        }
+      },
+      {
+        "sentence": "Not complete",
+        "meaning": "ඇය මගේ පොත ගෙනත් තිබුණා",
+        "_id": {
+          "$oid": "61c0595403628c7f00773768"
+        }
+      },
+      {
+        "sentence": "Not complete",
+        "meaning": "මම පොත් සාප්පුවට ගිය විට එය වසා තිබුණි",
+        "_id": {
+          "$oid": "61c0595403628c7f00773769"
+        }
       }
+    ],
+    "negative": [
+      {
+        "sentence": "Not complete",
+        "meaning": "ඔහු මට පිළිතුරක් ඒවා වුණේ තිබුණේ නෑ",
+        "_id": {
+          "$oid": "61c0595403628c7f0077376a"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Not complete",
+        "meaning": "ඒගොල්ලෝ තරඟය දිනලා තිබුණද?",
+        "_id": {
+          "$oid": "61c0595403628c7f0077376b"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-20T10:22:12.748Z"
     },
-    {
-      "sentence": "They have changed the decision",
-      "meaning": "ඔවුන් තීරණය වෙනස් කරලා",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4de"
-      }
+    "updatedAt": {
+      "$date": "2021-12-20T10:22:12.748Z"
     },
-    {
-      "sentence": "He has told everyone about that",
-      "meaning": "ඔහු කියලා හැමෝටම ඒ ගැන",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4df"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "I haven't visited Sigiriya yet",
-      "meaning": "මම සීගිරිය බලන්න ගිහිල්ලා නෑ තාම",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4e0"
-      }
-    },
-    {
-      "sentence": "He hasn't told such a story",
-      "meaning": "ඔහු කියලා නෑ ඒ වගේ කතාවක්",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4e1"
-      }
-    },
-    {
-      "sentence": "He hasn't done your work yet",
-      "meaning": "ඔහු ඔයාගේ වැඩේ කරලා නෑ තාමේ",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4e2"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Have you gone Kandy?",
-      "meaning": "ඔයා නුවර ගිහිල්ලා තියෙනවද?",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4e3"
-      }
-    },
-    {
-      "sentence": "Have they had lunch?",
-      "meaning": "ඒගොල්ලෝ දවල්ට කාලද?",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4e4"
-      }
-    },
-    {
-      "sentence": "Have I ever told you a lie?",
-      "meaning": "කවදා හරි මම ඔයාට බොරුවක් කියලා තියෙනවද?",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4e5"
-      }
-    },
-    {
-      "sentence": "Has he come for lectures today?",
-      "meaning": "එයා අද ලෙක්චර්ස් වලට ඇවිල්ලද?",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4e6"
-      }
-    },
-    {
-      "sentence": "Haven't they come?",
-      "meaning": "ඒ ගොල්ලෝ ඇවිල්ලා නැද්ද?",
-      "_id": {
-        "$oid": "61c0160b1d20f4b50f48f4e7"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-20T05:35:07.259Z"
+    "__v": 0
   },
-  "updatedAt": {
-    "$date": "2021-12-20T05:35:07.259Z"
+  {
+    "_id": {
+      "$oid": "61c05a9303628c7f0077376d"
+    },
+    "lessonNumber": "09",
+    "topic": "Simple Future Tense",
+    "description": "සිදුවීමට ඇති ක්‍රියාවක් දැක්වීම සඳහා මෙම කාලය යොදා ගනී",
+    "present": [
+      {
+        "sentence": "They will play cricket",
+        "meaning": "ඔවුන් ක්‍රිකට් ක්‍රීඩා කරයි",
+        "_id": {
+          "$oid": "61c05a9303628c7f0077376e"
+        }
+      },
+      {
+        "sentence": "He will help me",
+        "meaning": "ඔහු මට උදවු කරයි",
+        "_id": {
+          "$oid": "61c05a9303628c7f0077376f"
+        }
+      },
+      {
+        "sentence": "She will pass her exam",
+        "meaning": "ඇය ඇගේ විභාගය සමත් වේවි",
+        "_id": {
+          "$oid": "61c05a9303628c7f00773770"
+        }
+      },
+      {
+        "sentence": "She will sing a song",
+        "meaning": "ඇය ගීතයක් ගායනා කරයි",
+        "_id": {
+          "$oid": "61c05a9303628c7f00773771"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "They will not win the match",
+        "meaning": "ඒගොල්ලෝ තරගය දිනන එකක් නැහැ",
+        "_id": {
+          "$oid": "61c05a9303628c7f00773772"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Will he bring my book?",
+        "meaning": "ඔහු මගේ පොතේ ගෙනෙයිද?",
+        "_id": {
+          "$oid": "61c05a9303628c7f00773773"
+        }
+      },
+      {
+        "sentence": "Will she come tomorrow?",
+        "meaning": "ඇය හෙට එයිද?",
+        "_id": {
+          "$oid": "61c05a9303628c7f00773774"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-20T10:27:31.494Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-20T10:27:31.494Z"
+    },
+    "__v": 0
   },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61c03cad03628c7f00773736"
+  {
+    "_id": {
+      "$oid": "61c05e0703628c7f00773776"
+    },
+    "lessonNumber": "10",
+    "topic": "Future Continuous Tense Not completed",
+    "description": "අනාගතයේ කිසියම් කාලයක් තුළ සිදුවෙම්න් පවතින ක්‍රියාවක් දැක්වීම සඳහා මෙම කාලය යොදා ගනී",
+    "present": [
+      {
+        "sentence": "She will be working in their new office",
+        "meaning": "සම්පූර්ණ කර නැත",
+        "_id": {
+          "$oid": "61c05e0703628c7f00773777"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "Will they be working in their new office?",
+        "meaning": "සම්පූර්ණ කර නැත",
+        "_id": {
+          "$oid": "61c05e0703628c7f00773778"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "They won't be working in their new office",
+        "meaning": "සම්පූර්ණ කර නැත?",
+        "_id": {
+          "$oid": "61c05e0703628c7f00773779"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-20T10:42:15.706Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-20T10:42:15.706Z"
+    },
+    "__v": 0
   },
-  "lessonNumber": "04",
-  "topic": "Present Perfect Continuous Tense",
-  "description": "අතීතයෙන් පටන් අරන් තවමත් කරගෙන යන ක්‍රියා විස්තර කිරීම සඳහා මේ කාලය භාවිතා කරයි",
-  "present": [
-    {
-      "sentence": "We have been learning English since February",
-      "meaning": "අපි පෙබරවාරි මාසයේ ඉඳලා ඉංග්‍රීසි ඉගෙන ගනිමින් ඉඳලා තියෙනවා",
-      "_id": {
-        "$oid": "61c03cad03628c7f00773737"
-      }
+  {
+    "_id": {
+      "$oid": "61cdbda1d3ddce121b843347"
     },
-    {
-      "sentence": "I have been teaching in that school for two years",
-      "meaning": "වසර දෙකක් තිස්සේ මම ඒ පාසලේ උගන්වමින් ඉඳලා තියෙනවා",
-      "_id": {
-        "$oid": "61c03cad03628c7f00773738"
+    "lessonNumber": "11",
+    "topic": "There",
+    "description": "ඉන්නවා,තියෙනවා යන අදහස පැවසීමට There සහිත වැකි භාවිතා කරයි. බහුවචන නාම පද භාවිත කරන විට There සමඟ are යන පදය භාවිතා කරයි. ඒකවචන නාම පද භාවිත කරන විට There සමඟ is යන පදය භාවිතා කරයි.‍‍‍‍",
+    "present": [
+      {
+        "sentence": "There is a book",
+        "meaning": "පොතක් තියනවා",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b843348"
+        }
+      },
+      {
+        "sentence": "There is a problem",
+        "meaning": "ප්‍රශ්නයක් තියෙනවා",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b843349"
+        }
+      },
+      {
+        "sentence": "There are good teachers",
+        "meaning": "හොඳ ගුරුවරු ඉන්නවා",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b84334a"
+        }
+      },
+      {
+        "sentence": "There are thieves everywhere",
+        "meaning": "හොරු ඉන්නවා හැම හැමතැනම",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b84334b"
+        }
+      },
+      {
+        "sentence": "There are many problems here",
+        "meaning": "ගොඩක් ප්‍රශ්න තියෙනවා මෙහේ",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b84334c"
+        }
       }
+    ],
+    "negative": [
+      {
+        "sentence": "There isn't time",
+        "meaning": "කාලය නෑ",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b84334d"
+        }
+      },
+      {
+        "sentence": "There isn't a war",
+        "meaning": "යුද්ධයක් නෑ",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b84334e"
+        }
+      },
+      {
+        "sentence": "There aren't problems",
+        "meaning": "ප්‍රශ්න නෑ",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b84334f"
+        }
+      },
+      {
+        "sentence": "There aren't two pens on the stool",
+        "meaning": "පෑන් දෙකක් නෑ ස්ටූල් එක උඩ",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b843350"
+        }
+      },
+      {
+        "sentence": "There isn't a big house near the school",
+        "meaning": "ලොකු ගෙයක් නෑ ඉස්කෝලේ ළඟ",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b843351"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Is there a knife?",
+        "meaning": "පිහියක් තියනවද?",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b843352"
+        }
+      },
+      {
+        "sentence": "Is there a post office here?",
+        "meaning": "තැපැල් කන්තෝරුවක් තියෙනවද මේ හරියේ?",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b843353"
+        }
+      },
+      {
+        "sentence": "Are there bricks?",
+        "meaning": "ගඩොල් තියෙනවද?",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b843354"
+        }
+      },
+      {
+        "sentence": "Are there needs?",
+        "meaning": "අවශ්‍යතා තියනවද?",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b843355"
+        }
+      },
+      {
+        "sentence": "Are there some promises?",
+        "meaning": "මොනවා හරි පොරොන්දු තියෙනවද?",
+        "_id": {
+          "$oid": "61cdbda1d3ddce121b843356"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-30T14:09:37.430Z"
     },
-    {
-      "sentence": "They have been working in that company since last year",
-      "meaning": "ගිය අවුරුද්දේ ඉඳලා ඒගොල්ලෝ ඒ සමාගමේ වැඩ කරමින් ඉඳලා තියෙනවා",
-      "_id": {
-        "$oid": "61c03cad03628c7f00773739"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "I haven't been teaching English since last year",
-      "meaning": "මම ගිය  අවුරුද්දේ ඉඳලා ඉංග්‍රීසි ගන්වමින් ඉදලා නෑ",
-      "_id": {
-        "$oid": "61c03cad03628c7f0077373a"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Have you been working in the garden since 8.00 am?",
-      "meaning": "ඔවුන් පෙරවරු 8.00 සිට වත්තේ වැඩ කරමින් ඉදල තියෙනවද?",
-      "_id": {
-        "$oid": "61c03cad03628c7f0077373b"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-20T08:19:57.745Z"
+    "updatedAt": {
+      "$date": "2021-12-30T14:09:37.430Z"
+    },
+    "__v": 0
   },
-  "updatedAt": {
-    "$date": "2021-12-20T08:19:57.745Z"
+  {
+    "_id": {
+      "$oid": "61cdc465d3ddce121b843369"
+    },
+    "lessonNumber": "12",
+    "topic": "There was / There ware",
+    "description": "හිටියා, තිබුණා යන අදහස් පැවසීමට භාවිතා කරයි",
+    "present": [
+      {
+        "sentence": "There was a man",
+        "meaning": "මිනිහෙක් හිටියා",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b84336a"
+        }
+      },
+      {
+        "sentence": "There was a letter here",
+        "meaning": "ලියුමක් තිබුණා මෙතන",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b84336b"
+        }
+      },
+      {
+        "sentence": "There was a class yesterday",
+        "meaning": "පංතියක් තිබුණා ඊයේ",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b84336c"
+        }
+      },
+      {
+        "sentence": "There were clever cricketers in Sri Lanka",
+        "meaning": "දක්ෂ ක්‍රිකට් ක්‍රීඩකයකයෝ හිටියා ශ්‍රී ලංකාවේ",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b84336d"
+        }
+      },
+      {
+        "sentence": "There were doctors in the hospital",
+        "meaning": "වෛද්‍යවරු හිටියා රෝහලේ හිටිය රෝහලේ",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b84336e"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "There was not a period for science",
+        "meaning": "කාලපරිච්ඡේදයක් තිබුණේ නෑ විද්‍යාවට",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b84336f"
+        }
+      },
+      {
+        "sentence": "There wasn't a rat hall",
+        "meaning": "මී ගුලක් තිබුණේ නෑ ",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b843370"
+        }
+      },
+      {
+        "sentence": "There weren't farmers",
+        "meaning": "ගොවියෝ හිටියේ නෑ",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b843371"
+        }
+      },
+      {
+        "sentence": "There weren't doctors in the hospital",
+        "meaning": "වෛද්‍යවරු හිටියේ නෑ රෝහලේ",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b843372"
+        }
+      },
+      {
+        "sentence": "There weren't jobs",
+        "meaning": "රැකියා තිබුණේ නැහැ",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b843373"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Was there a bus?",
+        "meaning": "බස් එකක් තිබුණද?",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b843374"
+        }
+      },
+      {
+        "sentence": "Was there a good education in that school?",
+        "meaning": "හොඳ අධ්‍යාපනයක් තිබුනණද ඒ පාසලේ?",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b843375"
+        }
+      },
+      {
+        "sentence": "Was there a problem between you?",
+        "meaning": "ප්‍රශ්නයක් තිබුණද ඔයාලා අතරේ?",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b843376"
+        }
+      },
+      {
+        "sentence": "Were there problems in your married life?",
+        "meaning": "ප්‍රශ්න තිබුණද ඔයාගේ විවාහ ජීවිතයේ?",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b843377"
+        }
+      },
+      {
+        "sentence": "Were there thieves in this area?",
+        "meaning": "හොරු හිටියද මේ පැත්තේ?",
+        "_id": {
+          "$oid": "61cdc465d3ddce121b843378"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-30T14:38:29.677Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-30T14:38:29.677Z"
+    },
+    "__v": 0
   },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61c0446803628c7f0077373d"
+  {
+    "_id": {
+      "$oid": "61cdc822d3ddce121b84337a"
+    },
+    "lessonNumber": "13",
+    "topic": "Be Verbs - Present Tense",
+    "description": "හිටියා, තිබුණා යන අදහස් පැවසීමට භාවිතා කරයි",
+    "present": [
+      {
+        "sentence": "I am clever",
+        "meaning": "මම දක්ෂයි",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b84337b"
+        }
+      },
+      {
+        "sentence": "I am in here",
+        "meaning": "මම ඉන්නේ මෙතන",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b84337c"
+        }
+      },
+      {
+        "sentence": "He is my brother",
+        "meaning": "ඔහු මගේ සහෝදරයා",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b84337d"
+        }
+      },
+      {
+        "sentence": "You are innocent",
+        "meaning": "ඔයා අහිංසකයි",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b84337e"
+        }
+      },
+      {
+        "sentence": "We are poor",
+        "meaning": "අපි දුප්පත්",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b84337f"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "He is not a teacher",
+        "meaning": "ඔහු ගුරුවරයෙක් නෙවෙයි",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b843380"
+        }
+      },
+      {
+        "sentence": "I am not in Colombo",
+        "meaning": "මම ඉන්නේ කොළඹ නෙවෙයි",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b843381"
+        }
+      },
+      {
+        "sentence": "Your bicycle isn't near the gate",
+        "meaning": "ඔයාගේ බයිසිකලේ නෑ ගේට්ටුව ළඟ",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b843382"
+        }
+      },
+      {
+        "sentence": "We aren't doctors",
+        "meaning": "අපි වෛද්‍යවරු නෙමෙයි",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b843383"
+        }
+      },
+      {
+        "sentence": "Many people aren't honest",
+        "meaning": "ගොඩක් මිනිස්සු අවංක නෑ",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b843384"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Are you in Colombo?‍",
+        "meaning": "ඔයා ඉන්නේ කොළඹ ද?",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b843385"
+        }
+      },
+      {
+        "sentence": "Am I correct?",
+        "meaning": "මම හරිද?",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b843386"
+        }
+      },
+      {
+        "sentence": "Is principle sir in the office?",
+        "meaning": "පින්සිපල් සර් ඉන්නවද කාර්යාලයේ?",
+        "_id": {
+          "$oid": "61cdc822d3ddce121b843387"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-30T14:54:26.099Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-30T14:54:26.099Z"
+    },
+    "__v": 0
   },
-  "lessonNumber": "05",
-  "topic": "Simple Past Tense",
-  "description": "අතීත කාලය තුළ සම්පූර්ණ කරන ලද ක්‍රියාවක් දැක්වීමට මෙම කාලය යොදා ගැනේ",
-  "present": [
-    {
-      "sentence": "They played cricket",
-      "meaning": "ඒගොල්ලෝ ක්‍රිකට් සෙල්ලම් කළා",
-      "_id": {
-        "$oid": "61c0446803628c7f0077373e"
-      }
+  {
+    "_id": {
+      "$oid": "61cdca10d3ddce121b843389"
     },
-    {
-      "sentence": "He paid the bill",
-      "meaning": "ඔහු බිල ගෙව්වා",
-      "_id": {
-        "$oid": "61c0446803628c7f0077373f"
+    "lessonNumber": "14",
+    "topic": "Be Verbs - Past Tense",
+    "description": "Be ක්‍රියාපද වල අතීතකාල පදය වන්නේ Was හා Were යන පදයි ඒවායේ සරල අර්ථය වන්නේ හිටියා, තිබුණා, උනා යන්නයි.",
+    "present": [
+      {
+        "sentence": "They were brave",
+        "meaning": "ඒගොල්ලෝ නිර්භීත වුණා",
+        "_id": {
+          "$oid": "61cdca10d3ddce121b84338a"
+        }
+      },
+      {
+        "sentence": "We were in the school",
+        "meaning": "අපි හිටියේ පාසලේ",
+        "_id": {
+          "$oid": "61cdca10d3ddce121b84338b"
+        }
+      },
+      {
+        "sentence": "That man was in here",
+        "meaning": "ඒ මිනිහා හිටියේ මෙතන",
+        "_id": {
+          "$oid": "61cdca10d3ddce121b84338c"
+        }
       }
+    ],
+    "negative": [
+      {
+        "sentence": "Your book wasn't in the class",
+        "meaning": "ඔයාගේ පොත තිබුණේ නැහැ පන්තියේ",
+        "_id": {
+          "$oid": "61cdca10d3ddce121b84338d"
+        }
+      },
+      {
+        "sentence": "I weren't there",
+        "meaning": "මම හිටියේ නෑ එතන",
+        "_id": {
+          "$oid": "61cdca10d3ddce121b84338e"
+        }
+      },
+      {
+        "sentence": "They were not reasonable",
+        "meaning": "ඒගොල්ලෝ සාධාරණ වුණේ නෑ",
+        "_id": {
+          "$oid": "61cdca10d3ddce121b84338f"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Were they happy?",
+        "meaning": "ඒගොල්ලෝ සතුටු උනාද?",
+        "_id": {
+          "$oid": "61cdca10d3ddce121b843390"
+        }
+      },
+      {
+        "sentence": "Was he in the office?",
+        "meaning": "ඔහු කාර්යාලයේ හිටියද?",
+        "_id": {
+          "$oid": "61cdca10d3ddce121b843391"
+        }
+      },
+      {
+        "sentence": "Was someone with him",
+        "meaning": "කවුරුහරි හිටියද ඔහු එක්ක?",
+        "_id": {
+          "$oid": "61cdca10d3ddce121b843392"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-30T15:02:40.773Z"
     },
-    {
-      "sentence": "They won the match",
-      "meaning": "ඒගොල්ලෝ තරගය දින්නා",
-      "_id": {
-        "$oid": "61c0446803628c7f00773740"
-      }
+    "updatedAt": {
+      "$date": "2021-12-30T15:02:40.773Z"
     },
-    {
-      "sentence": "I slept well",
-      "meaning": "මම හොඳට නිදාගත්තා",
-      "_id": {
-        "$oid": "61c0446803628c7f00773741"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "I didn't read the book",
-      "meaning": "මම පොත කියෙව්වේ නෑ",
-      "_id": {
-        "$oid": "61c0446803628c7f00773742"
-      }
-    },
-    {
-      "sentence": "They didn't know about me",
-      "meaning": "ඒගොල්ලෝ දැනගත්තේ නෑ මම ගැන",
-      "_id": {
-        "$oid": "61c0446803628c7f00773743"
-      }
-    },
-    {
-      "sentence": "We didn't visit the zoo last year",
-      "meaning": "ගිය අවුරුද්දේ අපි සත්තු වත්ත බලන්න ගියේ නෑ",
-      "_id": {
-        "$oid": "61c0446803628c7f00773744"
-      }
-    },
-    {
-      "sentence": "He didn't blame me",
-      "meaning": "ඔහු මට බැන්නේ නෑ",
-      "_id": {
-        "$oid": "61c0446803628c7f00773745"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Did you bring my book?",
-      "meaning": "ඔයා මගේ පොත ගෙනාවද?",
-      "_id": {
-        "$oid": "61c0446803628c7f00773746"
-      }
-    },
-    {
-      "sentence": "Did they help you?",
-      "meaning": "ඔවුන් ඔබට උදව් කලාද?",
-      "_id": {
-        "$oid": "61c0446803628c7f00773747"
-      }
-    },
-    {
-      "sentence": "Did he buy a new car?",
-      "meaning": "ඔහු අලුත් කාර් එකක් මිලදී ගත්තද?",
-      "_id": {
-        "$oid": "61c0446803628c7f00773748"
-      }
-    },
-    {
-      "sentence": "Did she solve the problem?",
-      "meaning": "ඇය ප්‍රශ්නය විසඳ ගත්තද?",
-      "_id": {
-        "$oid": "61c0446803628c7f00773749"
-      }
-    },
-    {
-      "sentence": "Did you see me?",
-      "meaning": "ඔයා මාව දැක්කද?",
-      "_id": {
-        "$oid": "61c0446803628c7f0077374a"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-20T08:52:56.030Z"
+    "__v": 0
   },
-  "updatedAt": {
-    "$date": "2021-12-20T08:52:56.030Z"
+  {
+    "_id": {
+      "$oid": "61cdcbe5d3ddce121b843394"
+    },
+    "lessonNumber": "15",
+    "topic": "Have / Has",
+    "description": "තියන දේවල් ගැන අදහස් ප්‍රකාශ කිරීමට මෙම වාක්‍ය රටාව භාවිතා කරයි.",
+    "present": [
+      {
+        "sentence": "I have a bicycle",
+        "meaning": "මට බයිසිකලයක් තියෙනවා",
+        "_id": {
+          "$oid": "61cdcbe5d3ddce121b843395"
+        }
+      },
+      {
+        "sentence": "He has a job",
+        "meaning": "ඔහුට රස්සාවක් තියෙනවා",
+        "_id": {
+          "$oid": "61cdcbe5d3ddce121b843396"
+        }
+      },
+      {
+        "sentence": "I have a dream",
+        "meaning": "මට සිහිනයක් තියෙනවා",
+        "_id": {
+          "$oid": "61cdcbe5d3ddce121b843397"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "I don't have a car",
+        "meaning": "මට කාර් එකක් නෑ",
+        "_id": {
+          "$oid": "61cdcbe5d3ddce121b843398"
+        }
+      },
+      {
+        "sentence": "He doesn't have a shop",
+        "meaning": "ඔහුට සාප්පුවක් නෑ",
+        "_id": {
+          "$oid": "61cdcbe5d3ddce121b843399"
+        }
+      },
+      {
+        "sentence": "You do not have a good knowledge",
+        "meaning": "ඔයාට හොඳ දැනුම්ක් නෑ",
+        "_id": {
+          "$oid": "61cdcbe5d3ddce121b84339a"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Do you have an extra pen?",
+        "meaning": "ඔයා ළඟ අමතර පෑනක් තියෙනවද?",
+        "_id": {
+          "$oid": "61cdcbe5d3ddce121b84339b"
+        }
+      },
+      {
+        "sentence": "Do you have a water bottle?",
+        "meaning": "ඔයා ළඟ වතුර බෝතලයක් තියෙනවද?",
+        "_id": {
+          "$oid": "61cdcbe5d3ddce121b84339c"
+        }
+      },
+      {
+        "sentence": "Does he have a credit card?",
+        "meaning": "ඔහුට ක්‍රෙඩිට් කාඩ් එකක් තියෙනවද?",
+        "_id": {
+          "$oid": "61cdcbe5d3ddce121b84339d"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-30T15:10:29.599Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-30T15:10:29.599Z"
+    },
+    "__v": 0
   },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61c04a3503628c7f0077374c"
+  {
+    "_id": {
+      "$oid": "61cdcdb8d3ddce121b84339f"
+    },
+    "lessonNumber": "16",
+    "topic": "Can",
+    "description": "යම්කිසි ක්‍රියාවක් සිදු කිරීමට ඇති හැකියාව ප්‍රකාශ කිරීමට මෙම වාක්‍ය රටාව භාවිතා කරයි.",
+    "present": [
+      {
+        "sentence": "I can run well",
+        "meaning": "මට හොඳට දුවන්න පුළුවන්",
+        "_id": {
+          "$oid": "61cdcdb8d3ddce121b8433a0"
+        }
+      },
+      {
+        "sentence": "Our sir can teach well",
+        "meaning": "අපේ සර්ට පුළුවන් හොඳට උගන්වන්න",
+        "_id": {
+          "$oid": "61cdcdb8d3ddce121b8433a1"
+        }
+      },
+      {
+        "sentence": "I can understand you",
+        "meaning": "මට පුළුවන් ඔයාව තේරුම් ගන්න",
+        "_id": {
+          "$oid": "61cdcdb8d3ddce121b8433a2"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "I can't come with you",
+        "meaning": "මට එන්න බෑ ඔයත් එක්ක",
+        "_id": {
+          "$oid": "61cdcdb8d3ddce121b8433a3"
+        }
+      },
+      {
+        "sentence": "I can't go home now",
+        "meaning": "මට ගෙදර යන්න බෑ ැන්",
+        "_id": {
+          "$oid": "61cdcdb8d3ddce121b8433a4"
+        }
+      },
+      {
+        "sentence": "He can't write that letter",
+        "meaning": "ඔහුට බෑ ඒ ලියුම ලියන්න",
+        "_id": {
+          "$oid": "61cdcdb8d3ddce121b8433a5"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Can you meet me now?",
+        "meaning": "ඔයාට පුලුවන්ද මාව මුණගැහෙන්න දැන්?",
+        "_id": {
+          "$oid": "61cdcdb8d3ddce121b8433a6"
+        }
+      },
+      {
+        "sentence": "Can I know the time?",
+        "meaning": "මට වෙලාව දැනගන්න පුලුවන්ද?",
+        "_id": {
+          "$oid": "61cdcdb8d3ddce121b8433a7"
+        }
+      },
+      {
+        "sentence": "Can you wash the car?",
+        "meaning": "ඔයාට පුලුවන්ද කාර් එක හෝදන්න?",
+        "_id": {
+          "$oid": "61cdcdb8d3ddce121b8433a8"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-30T15:18:16.023Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-30T15:18:16.023Z"
+    },
+    "__v": 0
   },
-  "lessonNumber": "06",
-  "topic": "Past Continuous Tense",
-  "description": "අතීත කාලයේ කිසියම් අවස්ථාවක සිදු වෙමින් පැවැති ක්‍රියාවක් විස්තර කිරීමට මෙම කාලය භාවිතා කරයි",
-  "present": [
-    {
-      "sentence": "She was doing some official work",
-      "meaning": "ඇය කාර්යාලීය වැඩ වගයක් කරමින් හිටියා",
-      "_id": {
-        "$oid": "61c04a3503628c7f0077374d"
-      }
-    },
-    {
-      "sentence": "They were planning our future",
-      "meaning": "ඒගොල්ලෝ සැලසුම් කරමින් හිටියා අපේ අනාගතය ගැන",
-      "_id": {
-        "$oid": "61c04a3503628c7f0077374e"
-      }
-    },
-    {
-      "sentence": "She was singing a song",
-      "meaning": "ඇය සිංදුවක් කියමින් හිටියා",
-      "_id": {
-        "$oid": "61c04a3503628c7f0077374f"
-      }
-    },
-    {
-      "sentence": "They were asking for help",
-      "meaning": "ඒගොල්ලෝ උදව් ඉල්ලමින් හිටියා",
-      "_id": {
-        "$oid": "61c04a3503628c7f00773750"
-      }
-    },
-    {
-      "sentence": "We were speaking about your driving",
-      "meaning": "අපි කතා කර කර හිටියේ ඔයාගේ ඩ්‍රයිවින් ගැන",
-      "_id": {
-        "$oid": "61c04a3503628c7f00773751"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "I wasn't reading a book",
-      "meaning": "මම පොතක් කියවමින් නෙමෙයි හිටියේ",
-      "_id": {
-        "$oid": "61c04a3503628c7f00773752"
-      }
-    },
-    {
-      "sentence": "We weren't playing cricket",
-      "meaning": "අපි ක්‍රිකට් සෙල්ලම් කරමින් නෙමෙයි හිටියේ",
-      "_id": {
-        "$oid": "61c04a3503628c7f00773753"
-      }
-    },
-    {
-      "sentence": "They weren't leading a good life",
-      "meaning": "ඒගොල්ලෝ හොඳ ජීවිතයක් ගත කරමින් නෙමෙයි හිටියේ",
-      "_id": {
-        "$oid": "61c04a3503628c7f00773754"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Was she drawing a picture?",
-      "meaning": "ඇය චිත්‍රයක් අඳිමින් ද හිටියේ?",
-      "_id": {
-        "$oid": "61c04a3503628c7f00773755"
-      }
-    },
-    {
-      "sentence": "Were you cooking at that time?",
-      "meaning": "ඔයා උයමින් ද හිටියේ ඒ වෙලාවේ?",
-      "_id": {
-        "$oid": "61c04a3503628c7f00773756"
-      }
-    },
-    {
-      "sentence": "Was he writing a book?",
-      "meaning": "ඔහු පොතක් ලියමින් ද හිටියේ?",
-      "_id": {
-        "$oid": "61c04a3503628c7f00773757"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-20T09:17:41.765Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-20T09:17:41.765Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61c0589a03628c7f00773759"
-  },
-  "lessonNumber": "07",
-  "topic": "Past Perfect Tense",
-  "description": "අතීත කාලයේ කිසියම් මොහොතකට පෙර සම්පූර්ණ කරන ලද ක්‍රියාවක් දැක්වීම සඳහා මෙම කාලය යොදා ගැනේ",
-  "present": [
-    {
-      "sentence": "He had blamed to us",
-      "meaning": "එයා අපිට බැනලා තිබුණා",
-      "_id": {
-        "$oid": "61c0589a03628c7f0077375a"
-      }
-    },
-    {
-      "sentence": "She had brought my book",
-      "meaning": "ඇය මගේ පොත ගෙනත් තිබුණා",
-      "_id": {
-        "$oid": "61c0589a03628c7f0077375b"
-      }
-    },
-    {
-      "sentence": "When I went to the bookshop it had closed",
-      "meaning": "මම පොත් සාප්පුවට ගිය විට එය වසා තිබුණි",
-      "_id": {
-        "$oid": "61c0589a03628c7f0077375c"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "He had not sent me a reply",
-      "meaning": "ඔහු මට පිළිතුරක් ඒවා වුණේ තිබුණේ නෑ",
-      "_id": {
-        "$oid": "61c0589a03628c7f0077375d"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Had they won the match?",
-      "meaning": "ඒගොල්ලෝ තරඟය දිනලා තිබුණද?",
-      "_id": {
-        "$oid": "61c0589a03628c7f0077375e"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-20T10:19:06.316Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-20T10:19:06.316Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61c0595403628c7f00773766"
-  },
-  "lessonNumber": "08",
-  "topic": "Past Perfect Continuous Tense Not completed",
-  "description": "සම්පූර්ණ කර නැත",
-  "present": [
-    {
-      "sentence": "Not complete",
-      "meaning": "එයා අපිට බැනලා තිබුණා",
-      "_id": {
-        "$oid": "61c0595403628c7f00773767"
-      }
-    },
-    {
-      "sentence": "Not complete",
-      "meaning": "ඇය මගේ පොත ගෙනත් තිබුණා",
-      "_id": {
-        "$oid": "61c0595403628c7f00773768"
-      }
-    },
-    {
-      "sentence": "Not complete",
-      "meaning": "මම පොත් සාප්පුවට ගිය විට එය වසා තිබුණි",
-      "_id": {
-        "$oid": "61c0595403628c7f00773769"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "Not complete",
-      "meaning": "ඔහු මට පිළිතුරක් ඒවා වුණේ තිබුණේ නෑ",
-      "_id": {
-        "$oid": "61c0595403628c7f0077376a"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Not complete",
-      "meaning": "ඒගොල්ලෝ තරඟය දිනලා තිබුණද?",
-      "_id": {
-        "$oid": "61c0595403628c7f0077376b"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-20T10:22:12.748Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-20T10:22:12.748Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61c05a9303628c7f0077376d"
-  },
-  "lessonNumber": "09",
-  "topic": "Simple Future Tense",
-  "description": "සිදුවීමට ඇති ක්‍රියාවක් දැක්වීම සඳහා මෙම කාලය යොදා ගනී",
-  "present": [
-    {
-      "sentence": "They will play cricket",
-      "meaning": "ඔවුන් ක්‍රිකට් ක්‍රීඩා කරයි",
-      "_id": {
-        "$oid": "61c05a9303628c7f0077376e"
-      }
-    },
-    {
-      "sentence": "He will help me",
-      "meaning": "ඔහු මට උදවු කරයි",
-      "_id": {
-        "$oid": "61c05a9303628c7f0077376f"
-      }
-    },
-    {
-      "sentence": "She will pass her exam",
-      "meaning": "ඇය ඇගේ විභාගය සමත් වේවි",
-      "_id": {
-        "$oid": "61c05a9303628c7f00773770"
-      }
-    },
-    {
-      "sentence": "She will sing a song",
-      "meaning": "ඇය ගීතයක් ගායනා කරයි",
-      "_id": {
-        "$oid": "61c05a9303628c7f00773771"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "They will not win the match",
-      "meaning": "ඒගොල්ලෝ තරගය දිනන එකක් නැහැ",
-      "_id": {
-        "$oid": "61c05a9303628c7f00773772"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Will he bring my book?",
-      "meaning": "ඔහු මගේ පොතේ ගෙනෙයිද?",
-      "_id": {
-        "$oid": "61c05a9303628c7f00773773"
-      }
-    },
-    {
-      "sentence": "Will she come tomorrow?",
-      "meaning": "ඇය හෙට එයිද?",
-      "_id": {
-        "$oid": "61c05a9303628c7f00773774"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-20T10:27:31.494Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-20T10:27:31.494Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61c05e0703628c7f00773776"
-  },
-  "lessonNumber": "10",
-  "topic": "Future Continuous Tense Not completed",
-  "description": "අනාගතයේ කිසියම් කාලයක් තුළ සිදුවෙම්න් පවතින ක්‍රියාවක් දැක්වීම සඳහා මෙම කාලය යොදා ගනී",
-  "present": [
-    {
-      "sentence": "She will be working in their new office",
-      "meaning": "සම්පූර්ණ කර නැත",
-      "_id": {
-        "$oid": "61c05e0703628c7f00773777"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "Will they be working in their new office?",
-      "meaning": "සම්පූර්ණ කර නැත",
-      "_id": {
-        "$oid": "61c05e0703628c7f00773778"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "They won't be working in their new office",
-      "meaning": "සම්පූර්ණ කර නැත?",
-      "_id": {
-        "$oid": "61c05e0703628c7f00773779"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-20T10:42:15.706Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-20T10:42:15.706Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61cdbda1d3ddce121b843347"
-  },
-  "lessonNumber": "11",
-  "topic": "There",
-  "description": "ඉන්නවා,තියෙනවා යන අදහස පැවසීමට There සහිත වැකි භාවිතා කරයි. බහුවචන නාම පද භාවිත කරන විට There සමඟ are යන පදය භාවිතා කරයි. ඒකවචන නාම පද භාවිත කරන විට There සමඟ is යන පදය භාවිතා කරයි.‍‍‍‍",
-  "present": [
-    {
-      "sentence": "There is a book",
-      "meaning": "පොතක් තියනවා",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b843348"
-      }
-    },
-    {
-      "sentence": "There is a problem",
-      "meaning": "ප්‍රශ්නයක් තියෙනවා",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b843349"
-      }
-    },
-    {
-      "sentence": "There are good teachers",
-      "meaning": "හොඳ ගුරුවරු ඉන්නවා",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b84334a"
-      }
-    },
-    {
-      "sentence": "There are thieves everywhere",
-      "meaning": "හොරු ඉන්නවා හැම හැමතැනම",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b84334b"
-      }
-    },
-    {
-      "sentence": "There are many problems here",
-      "meaning": "ගොඩක් ප්‍රශ්න තියෙනවා මෙහේ",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b84334c"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "There isn't time",
-      "meaning": "කාලය නෑ",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b84334d"
-      }
-    },
-    {
-      "sentence": "There isn't a war",
-      "meaning": "යුද්ධයක් නෑ",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b84334e"
-      }
-    },
-    {
-      "sentence": "There aren't problems",
-      "meaning": "ප්‍රශ්න නෑ",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b84334f"
-      }
-    },
-    {
-      "sentence": "There aren't two pens on the stool",
-      "meaning": "පෑන් දෙකක් නෑ ස්ටූල් එක උඩ",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b843350"
-      }
-    },
-    {
-      "sentence": "There isn't a big house near the schoo",
-      "meaning": "ලොකු ගෙයක් නෑ ඉස්කෝලේ ළඟ",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b843351"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Is there a knife?‍",
-      "meaning": "පිහියක් තියනවද?",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b843352"
-      }
-    },
-    {
-      "sentence": "Is there a post office here?",
-      "meaning": "තැපැල් කන්තෝරුවක් තියෙනවද මේ හරියේ?",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b843353"
-      }
-    },
-    {
-      "sentence": "Are there bricks?",
-      "meaning": "ගඩොල් තියෙනවද?",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b843354"
-      }
-    },
-    {
-      "sentence": "Are there needs?",
-      "meaning": "අවශ්‍යතා තියනවද?",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b843355"
-      }
-    },
-    {
-      "sentence": "Are there some promises?",
-      "meaning": "මොනවා හරි පොරොන්දු තියෙනවද?",
-      "_id": {
-        "$oid": "61cdbda1d3ddce121b843356"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-30T14:09:37.430Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-30T14:09:37.430Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61cdc465d3ddce121b843369"
-  },
-  "lessonNumber": "12",
-  "topic": "There was / There ware",
-  "description": "හිටියා, තිබුණා යන අදහස් පැවසීමට භාවිතා කරයි",
-  "present": [
-    {
-      "sentence": "There was a man",
-      "meaning": "මිනිහෙක් හිටියා",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b84336a"
-      }
-    },
-    {
-      "sentence": "There was a letter here",
-      "meaning": "ලියුමක් තිබුණා මෙතන",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b84336b"
-      }
-    },
-    {
-      "sentence": "There was a class yesterday",
-      "meaning": "පංතියක් තිබුණා ඊයේ",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b84336c"
-      }
-    },
-    {
-      "sentence": "There were clever cricketers in Sri Lanka",
-      "meaning": "දක්ෂ ක්‍රිකට් ක්‍රීඩකයකයෝ හිටියා ශ්‍රී ලංකාවේ",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b84336d"
-      }
-    },
-    {
-      "sentence": "There were doctors in the hospital",
-      "meaning": "වෛද්‍යවරු හිටියා රෝහලේ හිටිය රෝහලේ",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b84336e"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "There was not a period for science",
-      "meaning": "කාලපරිච්ඡේදයක් තිබුණේ නෑ විද්‍යාවට",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b84336f"
-      }
-    },
-    {
-      "sentence": "There wasn't a rat hall",
-      "meaning": "මී ගුලක් තිබුණේ නෑ ",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b843370"
-      }
-    },
-    {
-      "sentence": "There weren't farmers",
-      "meaning": "ගොවියෝ හිටියේ නෑ",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b843371"
-      }
-    },
-    {
-      "sentence": "There weren't doctors in the hospital",
-      "meaning": "වෛද්‍යවරු හිටියේ නෑ රෝහලේ",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b843372"
-      }
-    },
-    {
-      "sentence": "There weren't jobs",
-      "meaning": "රැකියා තිබුණේ නැහැ",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b843373"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Was there a bus?‍",
-      "meaning": "බස් එකක් තිබුණද?",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b843374"
-      }
-    },
-    {
-      "sentence": "Was there a good education in that school?",
-      "meaning": "හොඳ අධ්‍යාපනයක් තිබුනණද ඒ පාසලේ?",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b843375"
-      }
-    },
-    {
-      "sentence": "Was there a problem between you?",
-      "meaning": "ප්‍රශ්නයක් තිබුණද ඔයාලා අතරේ?",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b843376"
-      }
-    },
-    {
-      "sentence": "Were there problems in your married life?",
-      "meaning": "ප්‍රශ්න තිබුණද ඔයාගේ විවාහ ජීවිතයේ?",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b843377"
-      }
-    },
-    {
-      "sentence": "Were there thieves in this area?",
-      "meaning": "හොරු හිටියද මේ පැත්තේ?",
-      "_id": {
-        "$oid": "61cdc465d3ddce121b843378"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-30T14:38:29.677Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-30T14:38:29.677Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61cdc822d3ddce121b84337a"
-  },
-  "lessonNumber": "13",
-  "topic": "Be Verbs - Present Tense",
-  "description": "හිටියා, තිබුණා යන අදහස් පැවසීමට භාවිතා කරයි",
-  "present": [
-    {
-      "sentence": "I am clever",
-      "meaning": "මම දක්ෂයි",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b84337b"
-      }
-    },
-    {
-      "sentence": "I am in here",
-      "meaning": "මම ඉන්නේ මෙතන",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b84337c"
-      }
-    },
-    {
-      "sentence": "He is my brother",
-      "meaning": "ඔහු මගේ සහෝදරයා",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b84337d"
-      }
-    },
-    {
-      "sentence": "You are innocent",
-      "meaning": "ඔයා අහිංසකයි",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b84337e"
-      }
-    },
-    {
-      "sentence": "We are poor",
-      "meaning": "අපි දුප්පත්",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b84337f"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "He is not a teacher",
-      "meaning": "ඔහු ගුරුවරයෙක් නෙවෙයි",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b843380"
-      }
-    },
-    {
-      "sentence": "I am not in Colombo",
-      "meaning": "මම ඉන්නේ කොළඹ නෙවෙයි",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b843381"
-      }
-    },
-    {
-      "sentence": "Your bicycle isn’t near the gate",
-      "meaning": "ඔයාගේ බයිසිකලේ නෑ ගේට්ටුව ළඟ",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b843382"
-      }
-    },
-    {
-      "sentence": "We aren’t doctors",
-      "meaning": "අපි වෛද්‍යවරු නෙමෙයි",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b843383"
-      }
-    },
-    {
-      "sentence": "Many people aren’t honest",
-      "meaning": "ගොඩක් මිනිස්සු අවංක නෑ",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b843384"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Are you in Colombo?‍",
-      "meaning": "ඔයා ඉන්නේ කොළඹ ද?",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b843385"
-      }
-    },
-    {
-      "sentence": "Am I correct?",
-      "meaning": "මම හරිද?",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b843386"
-      }
-    },
-    {
-      "sentence": "Is principle sir in the office?",
-      "meaning": "පින්සිපල් සර් ඉන්නවද කාර්යාලයේ?",
-      "_id": {
-        "$oid": "61cdc822d3ddce121b843387"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-30T14:54:26.099Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-30T14:54:26.099Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61cdca10d3ddce121b843389"
-  },
-  "lessonNumber": "14",
-  "topic": "Be Verbs - Past Tense",
-  "description": "Be ක්‍රියාපද වල අතීතකාල පදය වන්නේ Was හා Were යන පදයි ඒවායේ සරල අර්ථය වන්නේ හිටියා, තිබුණා, උනා යන්නයි.",
-  "present": [
-    {
-      "sentence": "They were brave",
-      "meaning": "ඒගොල්ලෝ නිර්භීත වුණා",
-      "_id": {
-        "$oid": "61cdca10d3ddce121b84338a"
-      }
-    },
-    {
-      "sentence": "We were in the school",
-      "meaning": "අපි හිටියේ පාසලේ",
-      "_id": {
-        "$oid": "61cdca10d3ddce121b84338b"
-      }
-    },
-    {
-      "sentence": "That man was in here",
-      "meaning": "ඒ මිනිහා හිටියේ මෙතන",
-      "_id": {
-        "$oid": "61cdca10d3ddce121b84338c"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "Your book wasn’t in the class",
-      "meaning": "ඔයාගේ පොත තිබුණේ නැහැ පන්තියේ",
-      "_id": {
-        "$oid": "61cdca10d3ddce121b84338d"
-      }
-    },
-    {
-      "sentence": "I weren’t there",
-      "meaning": "මම හිටියේ නෑ එතන",
-      "_id": {
-        "$oid": "61cdca10d3ddce121b84338e"
-      }
-    },
-    {
-      "sentence": "They were not reasonable",
-      "meaning": "ඒගොල්ලෝ සාධාරණ වුණේ නෑ",
-      "_id": {
-        "$oid": "61cdca10d3ddce121b84338f"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Were they happy?‍",
-      "meaning": "ඒගොල්ලෝ සතුටු උනාද?",
-      "_id": {
-        "$oid": "61cdca10d3ddce121b843390"
-      }
-    },
-    {
-      "sentence": "Was he in the office?",
-      "meaning": "ඔහු කාර්යාලයේ හිටියද?",
-      "_id": {
-        "$oid": "61cdca10d3ddce121b843391"
-      }
-    },
-    {
-      "sentence": "Was someone with him",
-      "meaning": "කවුරුහරි හිටියද ඔහු එක්ක?",
-      "_id": {
-        "$oid": "61cdca10d3ddce121b843392"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-30T15:02:40.773Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-30T15:02:40.773Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61cdcbe5d3ddce121b843394"
-  },
-  "lessonNumber": "15",
-  "topic": "Have / Has",
-  "description": "තියන දේවල් ගැන අදහස් ප්‍රකාශ කිරීමට මෙම වාක්‍ය රටාව භාවිතා කරයි.",
-  "present": [
-    {
-      "sentence": "I have a bicycle",
-      "meaning": "මට බයිසිකලයක් තියෙනවා",
-      "_id": {
-        "$oid": "61cdcbe5d3ddce121b843395"
-      }
-    },
-    {
-      "sentence": "He has a job",
-      "meaning": "ඔහුට රස්සාවක් තියෙනවා",
-      "_id": {
-        "$oid": "61cdcbe5d3ddce121b843396"
-      }
-    },
-    {
-      "sentence": "I have a dream",
-      "meaning": "මට සිහිනයක් තියෙනවා",
-      "_id": {
-        "$oid": "61cdcbe5d3ddce121b843397"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "I don’t have a car",
-      "meaning": "මට කාර් එකක් නෑ",
-      "_id": {
-        "$oid": "61cdcbe5d3ddce121b843398"
-      }
-    },
-    {
-      "sentence": "He doesn’t have a shop",
-      "meaning": "ඔහුට සාප්පුවක් නෑ",
-      "_id": {
-        "$oid": "61cdcbe5d3ddce121b843399"
-      }
-    },
-    {
-      "sentence": "You do not have a good knowledge",
-      "meaning": "ඔයාට හොඳ දැනුම්ක් නෑ",
-      "_id": {
-        "$oid": "61cdcbe5d3ddce121b84339a"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Do you have an extra pen?",
-      "meaning": "ඔයා ළඟ අමතර පෑනක් තියෙනවද?",
-      "_id": {
-        "$oid": "61cdcbe5d3ddce121b84339b"
-      }
-    },
-    {
-      "sentence": "Do you have a water bottle?",
-      "meaning": "ඔයා ළඟ වතුර බෝතලයක් තියෙනවද?",
-      "_id": {
-        "$oid": "61cdcbe5d3ddce121b84339c"
-      }
-    },
-    {
-      "sentence": "Does he have a credit card?",
-      "meaning": "ඔහුට ක්‍රෙඩිට් කාඩ් එකක් තියෙනවද?",
-      "_id": {
-        "$oid": "61cdcbe5d3ddce121b84339d"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-30T15:10:29.599Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-30T15:10:29.599Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61cdcdb8d3ddce121b84339f"
-  },
-  "lessonNumber": "16",
-  "topic": "Can",
-  "description": "යම්කිසි ක්‍රියාවක් සිදු කිරීමට ඇති හැකියාව ප්‍රකාශ කිරීමට මෙම වාක්‍ය රටාව භාවිතා කරයි.",
-  "present": [
-    {
-      "sentence": "I can run well",
-      "meaning": "මට හොඳට දුවන්න පුළුවන්",
-      "_id": {
-        "$oid": "61cdcdb8d3ddce121b8433a0"
-      }
-    },
-    {
-      "sentence": "Our sir can teach well",
-      "meaning": "අපේ සර්ට පුළුවන් හොඳට උගන්වන්න",
-      "_id": {
-        "$oid": "61cdcdb8d3ddce121b8433a1"
-      }
-    },
-    {
-      "sentence": "I can understand you",
-      "meaning": "මට පුළුවන් ඔයාව තේරුම් ගන්න",
-      "_id": {
-        "$oid": "61cdcdb8d3ddce121b8433a2"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "I can’t come with you",
-      "meaning": "මට එන්න බෑ ඔයත් එක්ක",
-      "_id": {
-        "$oid": "61cdcdb8d3ddce121b8433a3"
-      }
-    },
-    {
-      "sentence": "I can’t go home now",
-      "meaning": "මට ගෙදර යන්න බෑ ැන්",
-      "_id": {
-        "$oid": "61cdcdb8d3ddce121b8433a4"
-      }
-    },
-    {
-      "sentence": "He can’t write that letter",
-      "meaning": "ඔහුට බෑ ඒ ලියුම ලියන්න",
-      "_id": {
-        "$oid": "61cdcdb8d3ddce121b8433a5"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Can you meet me now?",
-      "meaning": "ඔයාට පුලුවන්ද මාව මුණගැහෙන්න දැන්?",
-      "_id": {
-        "$oid": "61cdcdb8d3ddce121b8433a6"
-      }
-    },
-    {
-      "sentence": "Can I know the time?",
-      "meaning": "මට වෙලාව දැනගන්න පුලුවන්ද?",
-      "_id": {
-        "$oid": "61cdcdb8d3ddce121b8433a7"
-      }
-    },
-    {
-      "sentence": "Can you wash the car?",
-      "meaning": "ඔයාට පුලුවන්ද කාර් එක හෝදන්න?",
-      "_id": {
-        "$oid": "61cdcdb8d3ddce121b8433a8"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-30T15:18:16.023Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-30T15:18:16.023Z"
-  },
-  "__v": 0
-},{
-  "_id": {
-    "$oid": "61cdcf89d3ddce121b8433aa"
-  },
-  "lessonNumber": "17",
-  "topic": "Could",
-  "description": "පුළුවන් උනාද වැනි අදහසක් ප්‍රකාශ කිරීමට මෙම වාක්‍ය රටාව භාවිතා කරයි.",
-  "present": [
-    {
-      "sentence": "I could come on time",
-      "meaning": "මට පුළුවන් වුණා වෙලාවට එන්න",
-      "_id": {
-        "$oid": "61cdcf89d3ddce121b8433ab"
-      }
-    },
-    {
-      "sentence": "He could complete it",
-      "meaning": "ඔහුට පුළුවන් වුණා සම්පූර්ණ කරන්න ඒක",
-      "_id": {
-        "$oid": "61cdcf89d3ddce121b8433ac"
-      }
-    },
-    {
-      "sentence": "She could buy the land",
-      "meaning": "ඇයට පුළුවන් වුණා ඉඩම මිලදී ගන්න",
-      "_id": {
-        "$oid": "61cdcf89d3ddce121b8433ad"
-      }
-    }
-  ],
-  "negative": [
-    {
-      "sentence": "I couldn’t clean the house",
-      "meaning": "මට බැරි වුණා ගේ අස්කරන්න",
-      "_id": {
-        "$oid": "61cdcf89d3ddce121b8433ae"
-      }
-    },
-    {
-      "sentence": "I couldn’t pay the bill",
-      "meaning": "මට ගෙදර යන්න බෑ ැන්",
-      "_id": {
-        "$oid": "61cdcf89d3ddce121b8433af"
-      }
-    },
-    {
-      "sentence": "We couldn’t win the competition",
-      "meaning": "අපිට බැරිවුනා තරගය දිනන්න",
-      "_id": {
-        "$oid": "61cdcf89d3ddce121b8433b0"
-      }
-    }
-  ],
-  "question": [
-    {
-      "sentence": "Could you find a job?",
-      "meaning": "ඔයාට පුළුවන් උනාද රැකියාවක් හොයා ගන්න?",
-      "_id": {
-        "$oid": "61cdcf89d3ddce121b8433b1"
-      }
-    },
-    {
-      "sentence": "Could they stop it?",
-      "meaning": "ඒගොල්ලන්ට පුළුවන් උනාද නවත්වන්න ඒක?",
-      "_id": {
-        "$oid": "61cdcf89d3ddce121b8433b2"
-      }
-    },
-    {
-      "sentence": "Could you give me even a call?",
-      "meaning": "ඔයාට පුළුවන් උනාද කෝල් එකක්වත් දෙන්න මට?",
-      "_id": {
-        "$oid": "61cdcf89d3ddce121b8433b3"
-      }
-    }
-  ],
-  "createdAt": {
-    "$date": "2021-12-30T15:26:01.389Z"
-  },
-  "updatedAt": {
-    "$date": "2021-12-30T15:26:01.389Z"
-  },
-  "__v": 0
-}]
+  {
+    "_id": {
+      "$oid": "61cdcf89d3ddce121b8433aa"
+    },
+    "lessonNumber": "17",
+    "topic": "Could",
+    "description": "පුළුවන් උනාද වැනි අදහසක් ප්‍රකාශ කිරීමට මෙම වාක්‍ය රටාව භාවිතා කරයි.",
+    "present": [
+      {
+        "sentence": "I could come on time",
+        "meaning": "මට පුළුවන් වුණා වෙලාවට එන්න",
+        "_id": {
+          "$oid": "61cdcf89d3ddce121b8433ab"
+        }
+      },
+      {
+        "sentence": "He could complete it",
+        "meaning": "ඔහුට පුළුවන් වුණා සම්පූර්ණ කරන්න ඒක",
+        "_id": {
+          "$oid": "61cdcf89d3ddce121b8433ac"
+        }
+      },
+      {
+        "sentence": "She could buy the land",
+        "meaning": "ඇයට පුළුවන් වුණා ඉඩම මිලදී ගන්න",
+        "_id": {
+          "$oid": "61cdcf89d3ddce121b8433ad"
+        }
+      }
+    ],
+    "negative": [
+      {
+        "sentence": "I couldn't clean the house",
+        "meaning": "මට බැරි වුණා ගේ අස්කරන්න",
+        "_id": {
+          "$oid": "61cdcf89d3ddce121b8433ae"
+        }
+      },
+      {
+        "sentence": "I couldn't pay the bill",
+        "meaning": "මට ගෙදර යන්න බෑ ැන්",
+        "_id": {
+          "$oid": "61cdcf89d3ddce121b8433af"
+        }
+      },
+      {
+        "sentence": "We couldn't win the competition",
+        "meaning": "අපිට බැරිවුනා තරගය දිනන්න",
+        "_id": {
+          "$oid": "61cdcf89d3ddce121b8433b0"
+        }
+      }
+    ],
+    "question": [
+      {
+        "sentence": "Could you find a job?",
+        "meaning": "ඔයාට පුළුවන් උනාද රැකියාවක් හොයා ගන්න?",
+        "_id": {
+          "$oid": "61cdcf89d3ddce121b8433b1"
+        }
+      },
+      {
+        "sentence": "Could they stop it?",
+        "meaning": "ඒගොල්ලන්ට පුළුවන් උනාද නවත්වන්න ඒක?",
+        "_id": {
+          "$oid": "61cdcf89d3ddce121b8433b2"
+        }
+      },
+      {
+        "sentence": "Could you give me even a call?",
+        "meaning": "ඔයාට පුළුවන් උනාද කෝල් එකක්වත් දෙන්න මට?",
+        "_id": {
+          "$oid": "61cdcf89d3ddce121b8433b3"
+        }
+      }
+    ],
+    "createdAt": {
+      "$date": "2021-12-30T15:26:01.389Z"
+    },
+    "updatedAt": {
+      "$date": "2021-12-30T15:26:01.389Z"
+    },
+    "__v": 0
+  }
+]
