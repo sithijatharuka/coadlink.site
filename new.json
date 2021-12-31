@@ -1146,7 +1146,7 @@
     ],
     "question": [
       {
-        "sentence": "Are you in Colombo?‍",
+        "sentence": "Are you in Colombo?",
         "meaning": "ඔයා ඉන්නේ කොළඹ ද?",
         "_id": {
           "$oid": "61cdc822d3ddce121b843385"
